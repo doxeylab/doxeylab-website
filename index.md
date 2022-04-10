@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Biology as a Data Science
 
 The Doxey lab is a bioinformatics / computational biology research lab at the University of Waterloo.
 We are located within the Department of Biology, with cross-affiliations to the Cheriton School of Computer Science.
