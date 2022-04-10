@@ -1,3 +1,9 @@
+- id: doi.org/10.1093/nar/gkz246
+  extra-links:
+    - type: website
+      text: AnnoTree
+      link: http://annotree.uwaterloo.ca
+
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   date: 2020-6-2
