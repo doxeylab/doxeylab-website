@@ -4,8 +4,10 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Doxey lab is a bioinformatics / computational biology research lab at the University of Waterloo.
+We are located within the Department of Biology, with cross-affiliations to the Cheriton School of Computer Science.
+
+Lab members include undergraduate and graduate students, postdocs, and research associates, with expertise in bioinformatics, genomics, molecular biology, and microbiology.
 
 {%
   include link.html
@@ -26,8 +28,6 @@ Spend less time reinventing the wheel, and more time running your lab.
 {:.center}
 
 {% include section.html full=true %}
-
-{% include banner.html image="images/banner.jpg" %}
 
 {% include section.html %}
 
