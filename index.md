@@ -29,6 +29,8 @@ Lab members include undergraduate and graduate students, postdocs, and research 
 
 {% include section.html full=true %}
 
+{% include section.html image="images/group.jpg" %}
+
 {% include section.html %}
 
 # Highlights
