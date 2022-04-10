@@ -1,9 +1,470 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1093/nar/gkz246
+- id: PMID:16815958
+  title: Cold-active winter rye glucanases with ice-binding capacity.
+  authors:
+  - Mahmoud W F Yaish
+  - Andrew C Doxey
+  - Brendan J McConkey
+  - Barbara A Moffatt
+  - Marilyn Griffith
+  publisher: Plant physiology
+  date: '2006-06-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16815958
+- id: PMID:16823370
+  title: Ordered surface carbons distinguish antifreeze proteins and their ice-binding
+    regions.
+  authors:
+  - Andrew C Doxey
+  - Mahmoud W Yaish
+  - Marilyn Griffith
+  - Brendan J McConkey
+  publisher: Nature biotechnology
+  date: '2006-07-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16823370
+- id: PMID:17272678
+  title: Functional divergence in the Arabidopsis beta-1,3-glucanase gene family inferred
+    by phylogenetic reconstruction of expression states.
+  authors:
+  - Andrew C Doxey
+  - Mahmoud W F Yaish
+  - Barbara A Moffatt
+  - Marilyn Griffith
+  - Brendan J McConkey
+  publisher: Molecular biology and evolution
+  date: '2007-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17272678
+- id: PMID:19014598
+  title: Insights into the evolutionary origins of clostridial neurotoxins from analysis
+    of the Clostridium botulinum strain A neurotoxin gene cluster.
+  authors:
+  - Andrew C Doxey
+  - Michael D J Lynch
+  - "Kirsten M M\xFCller"
+  - Elizabeth M Meiering
+  - Brendan J McConkey
+  publisher: BMC evolutionary biology
+  date: '2008-11-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19014598
+- id: PMID:19204814
+  title: Assessing the evolution of gene expression using microarray data.
+  authors:
+  - Owen Z Woody
+  - Andrew C Doxey
+  - Brendan J McConkey
+  publisher: Evolutionary bioinformatics online
+  date: '2008-04-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19204814
+- id: PMID:20678238
+  title: Structural motif screening reveals a novel, conserved carbohydrate-binding
+    surface in the pathogenesis-related protein PR-5d.
+  authors:
+  - Andrew C Doxey
+  - Zhenyu Cheng
+  - Barbara A Moffatt
+  - Brendan J McConkey
+  publisher: BMC structural biology
+  date: '2010-08-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20678238
+- id: PMID:21976714
+  title: Nuclear targeting of methyl-recycling enzymes in Arabidopsis thaliana is
+    mediated by specific protein interactions.
+  authors:
+  - Sanghyun Lee
+  - Andrew C Doxey
+  - Brendan J McConkey
+  - Barbara A Moffatt
+  publisher: Molecular plant
+  date: '2011-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21976714
+- id: PMID:22178248
+  title: 'Modular evolution and the origins of symmetry: reconstruction of a three-fold
+    symmetric globular protein.'
+  authors:
+  - Aron Broom
+  - Andrew C Doxey
+  - Yuri D Lobsanov
+  - Lisa G Berthin
+  - David R Rose
+  - P Lynne Howell
+  - Brendan J McConkey
+  - Elizabeth M Meiering
+  publisher: 'Structure (London, England : 1993)'
+  date: '2011-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22178248
+- id: PMID:23300632
+  title: 'Horizontal gene transfer contributed to the evolution of extracellular surface
+    structures: the freshwater polyp Hydra is covered by a complex fibrous cuticle
+    containing glycosaminoglycans and proteins of the PPOD and SWT (sweet tooth) families.'
+  authors:
+  - "Angelika B\xF6ttger"
+  - Andrew C Doxey
+  - Michael W Hess
+  - Kristian Pfaller
+  - Willi Salvenmoser
+  - Rainer Deutzmann
+  - Andreas Geissner
+  - Barbara Pauly
+  - "Johannes Altst\xE4tter"
+  - "Sandra M\xFCnder"
+  - Astrid Heim
+  - Hans-Joachim Gabius
+  - Brendan J McConkey
+  - Charles N David
+  publisher: PloS one
+  date: '2012-12-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23300632
+- id: PMID:23715053
+  title: Prediction of molecular mimicry candidates in human pathogenic bacteria.
+  authors:
+  - Andrew C Doxey
+  - Brendan J McConkey
+  publisher: Virulence
+  date: '2013-05-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23715053
+- id: PMID:24218641
+  title: Structure-aided prediction of mammalian transcription factor complexes in
+    conserved non-coding elements.
+  authors:
+  - Harendra Guturu
+  - Andrew C Doxey
+  - Aaron M Wenger
+  - Gill Bejerano
+  publisher: Philosophical transactions of the Royal Society of London. Series B,
+    Biological sciences
+  date: '2013-11-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24218641
+- id: PMID:25126756
+  title: Aquatic metagenomes implicate Thaumarchaeota in global cobalamin production.
+  authors:
+  - Andrew C Doxey
+  - Daniel A Kurtz
+  - Michael D J Lynch
+  - Laura A Sauder
+  - Josh D Neufeld
+  publisher: The ISME journal
+  date: '2014-08-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25126756
+- id: PMID:25399027
+  title: 'mimicMe: a web server for prediction and analysis of host-like proteins
+    in microbial pathogens.'
+  authors:
+  - Pavel Petrenko
+  - Andrew C Doxey
+  publisher: Bioinformatics (Oxford, England)
+  date: '2014-10-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25399027
+- id: PMID:25541486
+  title: Botulinum neurotoxin homologs in non-Clostridium species.
+  authors:
+  - Michael J Mansfield
+  - Jeremy B Adams
+  - Andrew C Doxey
+  publisher: FEBS letters
+  date: '2014-12-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25541486
+- id: PMID:26257768
+  title: Remote homology and the functions of metagenomic dark matter.
+  authors:
+  - Briallen Lobb
+  - Daniel A Kurtz
+  - Gabriel Moreno-Hagelsieb
+  - Andrew C Doxey
+  publisher: Frontiers in genetics
+  date: '2015-07-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26257768
+- id: PMID:26541816
+  title: 'MetAnnotate: function-specific taxonomic profiling and comparison of metagenomes.'
+  authors:
+  - Pavel Petrenko
+  - Briallen Lobb
+  - Daniel A Kurtz
+  - Josh D Neufeld
+  - Andrew C Doxey
+  publisher: BMC biology
+  date: '2015-11-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26541816
+- id: PMID:27289211
+  title: Novel function discovery through sequence and structural data mining.
+  authors:
+  - Briallen Lobb
+  - Andrew C Doxey
+  publisher: Current opinion in structural biology
+  date: '2016-06-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27289211
+- id: PMID:27943515
+  title: Agricultural soil denitrifiers possess extensive nitrite reductase gene diversity.
+  authors:
+  - Sara Coyotzi
+  - Andrew C Doxey
+  - Ian D Clark
+  - David R Lapen
+  - Philippe Van Cappellen
+  - Josh D Neufeld
+  publisher: Environmental microbiology
+  date: '2017-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27943515
+- id: PMID:28052926
+  title: Lineage-specific mutational clustering in protein structures predicts evolutionary
+    shifts in function.
+  authors:
+  - Jeremy Adams
+  - Michael J Mansfield
+  - Daniel J Richard
+  - Andrew C Doxey
+  publisher: Bioinformatics (Oxford, England)
+  date: '2017-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28052926
+- id: PMID:28273103
+  title: "Functional metagenomics reveals novel \u03B2-galactosidases not predictable\
+    \ from gene sequences."
+  authors:
+  - Jiujun Cheng
+  - Tatyana Romantsov
+  - Katja Engel
+  - Andrew C Doxey
+  - David R Rose
+  - Josh D Neufeld
+  - Trevor C Charles
+  publisher: PloS one
+  date: '2017-03-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28273103
+- id: PMID:28671685
+  title: Ancient selection for derived alleles at a GDF5 enhancer influencing human
+    growth and osteoarthritis risk.
+  authors:
+  - Terence D Capellini
+  - Hao Chen
+  - Jiaxue Cao
+  - Andrew C Doxey
+  - Ata M Kiapour
+  - Michael Schoor
+  - David M Kingsley
+  publisher: Nature genetics
+  date: '2017-07-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28671685
+- id: PMID:28761935
+  title: The Skin Microbiome of Cohabiting Couples.
+  authors:
+  - Ashley A Ross
+  - Andrew C Doxey
+  - Josh D Neufeld
+  publisher: mSystems
+  date: '2017-07-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28761935
+- id: PMID:28785417
+  title: Metagenomic data-mining reveals contrasting microbial populations responsible
+    for trimethylamine formation in human gut and marine ecosystems.
+  authors:
+  - Eleanor Jameson
+  - Andrew C Doxey
+  - Ruth Airs
+  - Kevin J Purdy
+  - J Colin Murrell
+  - Yin Chen
+  publisher: Microbial genomics
+  date: '2016-09-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28785417
+- id: PMID:28835383
+  title: "Estrogen Receptor \u03B2 Is a Novel Target in Acute Myeloid Leukemia."
+  authors:
+  - Sarah-Grace Rota
+  - Alessia Roma
+  - Iulia Dude
+  - Christina Ma
+  - Robert Stevens
+  - Janet MacEachern
+  - Joanna Graczyk
+  - Shaundrei Mabriel G Espiritu
+  - Praveen N Rao
+  - Mark D Minden
+  - Elena Kreinin
+  - David A Hess
+  - Andrew C Doxey
+  - Paul A Spagnuolo
+  publisher: Molecular cancer therapeutics
+  date: '2017-08-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28835383
+- id: PMID:28900095
+  title: Discovery of a proteolytic flagellin family in diverse bacterial phyla that
+    assembles enzymatically active flagella.
+  authors:
+  - Ulrich Eckhard
+  - Hina Bandukwala
+  - Michael J Mansfield
+  - Giada Marino
+  - Jiujun Cheng
+  - Iain Wallace
+  - Todd Holyoak
+  - Trevor C Charles
+  - John Austin
+  - Christopher M Overall
+  - Andrew C Doxey
+  publisher: Nature communications
+  date: '2017-09-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28900095
+- id: PMID:28905000
+  title: 'Transcriptome Analysis of Polyhydroxybutyrate Cycle Mutants Reveals Discrete
+    Loci Connecting Nitrogen Utilization and Carbon Storage in '
+  authors:
+  - Maya D'Alessio
+  - Ricardo Nordeste
+  - Andrew C Doxey
+  - Trevor C Charles
+  publisher: mSystems
+  date: '2017-09-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28905000
+- id: PMID:29203905
+  title: Rainbow trout exposed to benzo[a]pyrene yields conserved microRNA binding
+    sites in DNA methyltransferases across 500 million years of evolution.
+  authors:
+  - Christopher Kuc
+  - Daniel J Richard
+  - Samantha Johnson
+  - Leslie Bragg
+  - Mark R Servos
+  - Andrew C Doxey
+  - Paul M Craig
+  publisher: Scientific reports
+  date: '2017-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29203905
+- id: PMID:29205154
+  title: Epigenetic profiling of growth plate chondrocytes sheds insight into regulatory
+    genetic variation influencing height.
+  authors:
+  - Michael Guo
+  - Zun Liu
+  - Jessie Willen
+  - Cameron P Shaw
+  - Daniel Richard
+  - Evelyn Jagoda
+  - Andrew C Doxey
+  - Joel Hirschhorn
+  - Terence D Capellini
+  publisher: eLife
+  date: '2017-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29205154
+- id: PMID:29291746
+  title: 'Aerobic proteobacterial methylotrophs in Movile Cave: genomic and metagenomic
+    analyses.'
+  authors:
+  - Deepak Kumaresan
+  - Jason Stephenson
+  - Andrew C Doxey
+  - Hina Bandukwala
+  - Elliot Brooks
+  - Alexandra Hillebrand-Voiculescu
+  - Andrew S Whiteley
+  - J Colin Murrell
+  publisher: Microbiome
+  date: '2018-01-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29291746
+- id: PMID:29396040
+  title: Identification of a Botulinum Neurotoxin-like Toxin in a Commensal Strain
+    of Enterococcus faecium.
+  authors:
+  - Sicai Zhang
+  - Francois Lebreton
+  - Michael J Mansfield
+  - Shin-Ichiro Miyashita
+  - Jie Zhang
+  - Julia A Schwartzman
+  - Liang Tao
+  - Geoffrey Masuyer
+  - "Markel Mart\xEDnez-Carranza"
+  - "P\xE5l Stenmark"
+  - Michael S Gilmore
+  - Andrew C Doxey
+  - Min Dong
+  publisher: Cell host & microbe
+  date: '2018-01-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29396040
+- id: PMID:29438679
+  title: Discovery of novel bacterial toxins by genomics and computational biology.
+  authors:
+  - Andrew C Doxey
+  - Michael J Mansfield
+  - Cesare Montecucco
+  publisher: 'Toxicon : official journal of the International Society on Toxinology'
+  date: '2018-02-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29438679
+- id: PMID:29684130
+  title: Genomic insights into the evolution and ecology of botulinum neurotoxins.
+  authors:
+  - Michael J Mansfield
+  - Andrew C Doxey
+  publisher: Pathogens and disease
+  date: '2018-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29684130
+- id: PMID:29954919
+  title: Draft Genome Sequences of Two Novel Cellulolytic Streptomyces Strains Isolated
+    from South African Rhizosphere Soil.
+  authors:
+  - Mobolaji F Adegboye
+  - Briallen Lobb
+  - Olubukola O Babalola
+  - Andrew C Doxey
+  - Kesen Ma
+  publisher: Genome announcements
+  date: '2018-06-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29954919
+- id: PMID:30058084
+  title: Identification of a diphtheria toxin-like gene family beyond the Corynebacterium
+    genus.
+  authors:
+  - Michael J Mansfield
+  - Seiji N Sugiman-Marangos
+  - Roman A Melnyk
+  - Andrew C Doxey
+  publisher: FEBS letters
+  date: '2018-08-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30058084
+- id: PMID:30533733
+  title: Metagenomic Sequencing of Wastewater from a South African Research Farm.
+  authors:
+  - Briallen Lobb
+  - Anthony A Adegoke
+  - Kesen Ma
+  - Andrew C Doxey
+  - Olayinka A Aiyegoro
+  publisher: Microbiology resource announcements
+  date: '2018-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30533733
+- id: PMID:30655622
+  title: The impact of cigarette smoke exposure, COPD, or asthma status on ABC transporter
+    gene expression in human airway epithelial cells.
+  authors:
+  - Jennifer A Aguiar
+  - Andrea Tamminga
+  - Briallen Lobb
+  - Ryan D Huff
+  - Jenny P Nguyen
+  - Yechan Kim
+  - Anna Dvorkin-Gheva
+  - Martin R Stampfli
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: Scientific reports
+  date: '2019-01-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30655622
+- id: PMID:30733520
+  title: Bioinformatic discovery of a toxin family in Chryseobacterium piperi with
+    sequence similarity to botulinum neurotoxins.
+  authors:
+  - Michael James Mansfield
+  - Travis Gwynn Wentz
+  - Sicai Zhang
+  - Elliot Jeon Lee
+  - Min Dong
+  - Shashi Kant Sharma
+  - Andrew Charles Doxey
+  publisher: Scientific reports
+  date: '2019-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30733520
+- id: PMID:31081040
   title: 'AnnoTree: visualization and exploration of a functionally annotated microbial
-    tree of life'
+    tree of life.'
   authors:
   - Kerrin Mendler
   - Han Chen
@@ -11,13 +472,472 @@
   - Briallen Lobb
   - Laura A Hug
   - Andrew C Doxey
-  publisher: Nucleic Acids Research
-  date: '2019-04-09'
-  link: https://doi.org/ggqjv6
-  extra-links:
-  - type: website
-    text: AnnoTree
-    link: http://annotree.uwaterloo.ca
+  publisher: Nucleic acids research
+  date: '2019-05-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31081040
+- id: PMID:31117023
+  title: Exploring the Evolution of Virulence Factors through Bioinformatic Data Mining.
+  authors:
+  - Andrew C Doxey
+  - Michael J Mansfield
+  - Briallen Lobb
+  publisher: mSystems
+  date: '2019-05-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31117023
+- id: PMID:31240307
+  title: 'Pygenprop: a Python library for programmatic exploration and comparison
+    of organism genome properties.'
+  authors:
+  - Lee H Bergstrand
+  - Josh D Neufeld
+  - Andrew C Doxey
+  publisher: Bioinformatics (Oxford, England)
+  date: '2019-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31240307
+- id: PMID:31492962
+  title: Metagenomic and chemical characterization of soil cobalamin production.
+  authors:
+  - Xinda Lu
+  - Katherine R Heal
+  - Anitra E Ingalls
+  - Andrew C Doxey
+  - Josh D Neufeld
+  publisher: The ISME journal
+  date: '2019-09-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31492962
+- id: PMID:31628906
+  title: A study of nitric oxide dynamics in a growing biofilm using a density dependent
+    reaction-diffusion model.
+  authors:
+  - Maryam Ghasemi
+  - Benjamin Jenkins
+  - Andrew C Doxey
+  - Sivabal Sivaloganathan
+  publisher: Journal of theoretical biology
+  date: '2019-10-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31628906
+- id: PMID:31646766
+  title: Transcriptomic and barrier responses of human airway epithelial cells exposed
+    to cannabis smoke.
+  authors:
+  - Jennifer A Aguiar
+  - Ryan D Huff
+  - Wayne Tse
+  - "Martin R St\xE4mpfli"
+  - Brendan J McConkey
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: Physiological reports
+  date: '2019-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31646766
+- id: PMID:31974369
+  title: The C. difficile toxin B membrane translocation machinery is an evolutionarily
+    conserved protein delivery apparatus.
+  authors:
+  - Kathleen E Orrell
+  - Michael J Mansfield
+  - Andrew C Doxey
+  - Roman A Melnyk
+  publisher: Nature communications
+  date: '2020-01-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31974369
+- id: PMID:31984210
+  title: "Effect of long-acting \u03B2-agonists/glucocorticoids on human airway epithelial\
+    \ cell cytokine, transcriptomic and oxidative stress responses to cannabis smoke."
+  authors:
+  - Ryan D Huff
+  - Jennifer A Aguiar
+  - Wayne Tse
+  - "Martin R St\xE4mpfli"
+  - Brendan J McConkey
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: ERJ open research
+  date: '2020-01-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31984210
+- id: PMID:32124724
+  title: An assessment of genome annotation coverage across the bacterial tree of
+    life.
+  authors:
+  - Briallen Lobb
+  - Benjamin Jean-Marie Tremblay
+  - Gabriel Moreno-Hagelsieb
+  - Andrew C Doxey
+  publisher: Microbial genomics
+  date: '2020-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32124724
+- id: PMID:32299893
+  title: Genome Sequence of the Fish Brain Bacterium Clostridium tarantellae.
+  authors:
+  - Luca Bano
+  - Matthias Kiel
+  - Gabriele Sales
+  - Andrew C Doxey
+  - Michael J Mansfield
+  - Haleluya T Wami
+  - Marco Schiavone
+  - Ornella Rossetto
+  - Marco Pirazzini
+  - Ulrich Dobrindt
+  - Cesare Montecucco
+  publisher: Microbiology resource announcements
+  date: '2020-04-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32299893
+- id: PMID:32332864
+  title: High functional diversity among Nitrospira populations that dominate rotating
+    biological contactor microbial communities in a municipal wastewater treatment
+    plant.
+  authors:
+  - Emilie Spasov
+  - Jackson M Tsuji
+  - Laura A Hug
+  - Andrew C Doxey
+  - Laura A Sauder
+  - Wayne J Parker
+  - Josh D Neufeld
+  publisher: The ISME journal
+  date: '2020-04-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32332864
+- id: PMID:32345738
+  title: Time Series Resolution of the Fish Necrobiome Reveals a Decomposer Succession
+    Involving Toxigenic Bacterial Pathogens.
+  authors:
+  - Briallen Lobb
+  - Rhiannon Hodgson
+  - Michael D J Lynch
+  - Michael J Mansfield
+  - Jiujun Cheng
+  - Trevor C Charles
+  - Josh D Neufeld
+  - Paul M Craig
+  - Andrew C Doxey
+  publisher: mSystems
+  date: '2020-04-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32345738
+- id: PMID:32675206
+  title: 'Gene expression and '
+  authors:
+  - Jennifer A Aguiar
+  - Benjamin J-M Tremblay
+  - Michael J Mansfield
+  - Owen Woody
+  - Briallen Lobb
+  - Arinjay Banerjee
+  - Abiram Chandiramohan
+  - Nicholas Tiessen
+  - Quynh Cao
+  - Anna Dvorkin-Gheva
+  - Spencer Revill
+  - Matthew S Miller
+  - Christopher Carlsten
+  - Louise Organ
+  - Chitra Joseph
+  - Alison John
+  - Paul Hanson
+  - Richard C Austin
+  - Bruce M McManus
+  - Gisli Jenkins
+  - Karen Mossman
+  - Kjetil Ask
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: The European respiratory journal
+  date: '2020-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32675206
+- id: PMID:32804439
+  title: Slr4, a newly identified S-layer protein from marine Gammaproteobacteria,
+    is a major biofilm matrix component.
+  authors:
+  - Sura Ali
+  - Benjamin Jenkins
+  - Jiujun Cheng
+  - Briallen Lobb
+  - Xin Wei
+  - Suhelen Egan
+  - Trevor C Charles
+  - Brendan J McConkey
+  - John Austin
+  - Andrew C Doxey
+  publisher: Molecular microbiology
+  date: '2020-09-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32804439
+- id: PMID:32902372
+  title: Predicting the recombination potential of severe acute respiratory syndrome
+    coronavirus 2 and Middle East respiratory syndrome coronavirus.
+  authors:
+  - Arinjay Banerjee
+  - Andrew C Doxey
+  - Benjamin J-M Tremblay
+  - Michael J Mansfield
+  - Sonu Subudhi
+  - Jeremy A Hirota
+  - Matthew S Miller
+  - Andrew G McArthur
+  - Samira Mubareka
+  - Karen Mossman
+  publisher: The Journal of general virology
+  date: '2020-09-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32902372
+- id: PMID:33042865
+  title: ABCF1 Regulates dsDNA-induced Immune Responses in Human Airway Epithelial
+    Cells.
+  authors:
+  - Quynh T Cao
+  - Jennifer A Aguiar
+  - Benjamin J-M Tremblay
+  - Nadin Abbas
+  - Nicholas Tiessen
+  - Spencer Revill
+  - Nima Makhdami
+  - Anmar Ayoub
+  - Gerard Cox
+  - Kjetil Ask
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: Frontiers in cellular and infection microbiology
+  date: '2020-09-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33042865
+- id: PMID:33149258
+  title: Identification and characterization of the proteolytic flagellin from the
+    common freshwater bacterium Hylemonella gracilis.
+  authors:
+  - Ulrich Eckhard
+  - "Constantin Bl\xF6chl"
+  - Benjamin G L Jenkins
+  - Michael J Mansfield
+  - Christian G Huber
+  - Andrew C Doxey
+  - Hans Brandstetter
+  publisher: Scientific reports
+  date: '2020-11-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33149258
+- id: PMID:33326193
+  title: Large expert-curated database for benchmarking document similarity detection
+    in biomedical literature search.
+  authors:
+  - Peter Brown
+  - ' '
+  - Yaoqi Zhou
+  publisher: 'Database : the journal of biological databases and curation'
+  date: '2019-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33326193
+- id: PMID:33344628
+  title: 'Expression of endocannabinoid system components in human airway epithelial
+    cells: impact of sex and chronic respiratory disease status.'
+  authors:
+  - Matthew F Fantauzzi
+  - Jennifer A Aguiar
+  - Benjamin J-M Tremblay
+  - Michael J Mansfield
+  - Toyoshi Yanagihara
+  - Abiram Chandiramohan
+  - Spencer Revill
+  - Min Hyung Ryu
+  - Chris Carlsten
+  - Kjetil Ask
+  - "Martin St\xE4mpfli"
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: ERJ open research
+  date: '2020-12-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33344628
+- id: PMID:33370413
+  title: Phylogenomics of 8,839 Clostridioides difficile genomes reveals recombination-driven
+    evolution and diversification of toxin A and B.
+  authors:
+  - Michael J Mansfield
+  - Benjamin J-M Tremblay
+  - Ji Zeng
+  - Xin Wei
+  - Harold Hodgins
+  - Jay Worley
+  - Lynn Bry
+  - Min Dong
+  - Andrew C Doxey
+  publisher: PLoS pathogens
+  date: '2020-12-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33370413
+- id: PMID:33384197
+  title: Unraveling the Zoonotic Origin and Transmission of SARS-CoV-2.
+  authors:
+  - Arinjay Banerjee
+  - Andrew C Doxey
+  - Karen Mossman
+  - Aaron T Irving
+  publisher: Trends in ecology & evolution
+  date: '2020-12-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33384197
+- id: PMID:33416870
+  title: 'PhyloCorrelate: inferring bacterial gene-gene functional associations through
+    large-scale phylogenetic profiling.'
+  authors:
+  - Benjamin J-M Tremblay
+  - Briallen Lobb
+  - Andrew C Doxey
+  publisher: Bioinformatics (Oxford, England)
+  date: '2021-01-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33416870
+- id: PMID:33519501
+  title: High Throughput Sequencing of MicroRNA in Rainbow Trout Plasma, Mucus, and
+    Surrounding Water Following Acute Stress.
+  authors:
+  - Heather Ikert
+  - Michael D J Lynch
+  - Andrew C Doxey
+  - John P Giesy
+  - Mark R Servos
+  - Barbara A Katzenback
+  - Paul M Craig
+  publisher: Frontiers in physiology
+  date: '2021-01-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33519501
+- id: PMID:33533410
+  title: 'AXIOME3: Automation, eXtension, and Integration Of Microbial Ecology.'
+  authors:
+  - Daniel Min
+  - Andrew C Doxey
+  - Joshua D Neufeld
+  publisher: GigaScience
+  date: '2021-02-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33533410
+- id: PMID:33614779
+  title: 'Development and validation of an open-source, disposable, 3D-printed '
+  authors:
+  - Abiram Chandiramohan
+  - Mohammedhossein Dabaghi
+  - Jennifer A Aguiar
+  - Nicholas Tiessen
+  - Mary Stewart
+  - Quynh T Cao
+  - Jenny P Nguyen
+  - Nima Makhdami
+  - Gerard Cox
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: ERJ open research
+  date: '2021-02-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33614779
+- id: PMID:33852875
+  title: Metabolic flexibility determines human NK cell functional fate in the tumor
+    microenvironment.
+  authors:
+  - Sophie M Poznanski
+  - Kanwaldeep Singh
+  - Tyrah M Ritchie
+  - Jennifer A Aguiar
+  - Isabella Y Fan
+  - Ana L Portillo
+  - Eduardo A Rojas
+  - Fatemeh Vahedi
+  - Abdullah El-Sayes
+  - Sansi Xing
+  - Martin Butcher
+  - Yu Lu
+  - Andrew C Doxey
+  - Jonathan D Schertzer
+  - Hal W Hirte
+  - Ali A Ashkar
+  publisher: Cell metabolism
+  date: '2021-04-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33852875
+- id: PMID:33937724
+  title: Experimental and natural evidence of SARS-CoV-2-infection-induced activation
+    of type I interferon responses.
+  authors:
+  - Arinjay Banerjee
+  - Nader El-Sayes
+  - Patrick Budylowski
+  - Rajesh Abraham Jacob
+  - Daniel Richard
+  - Hassaan Maan
+  - Jennifer A Aguiar
+  - Wael L Demian
+  - Kaushal Baid
+  - Michael R D'Agostino
+  - Jann Catherine Ang
+  - Tetyana Murdza
+  - Benjamin J-M Tremblay
+  - Sam Afkhami
+  - Mehran Karimzadeh
+  - Aaron T Irving
+  - Lily Yip
+  - Mario Ostrowski
+  - Jeremy A Hirota
+  - Robert Kozak
+  - Terence D Capellini
+  - Matthew S Miller
+  - Bo Wang
+  - Samira Mubareka
+  - Allison J McGeer
+  - Andrew G McArthur
+  - Andrew C Doxey
+  - Karen Mossman
+  publisher: iScience
+  date: '2021-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33937724
+- id: PMID:34521345
+  title: 'PathFams: statistical detection of pathogen-associated protein domains.'
+  authors:
+  - Briallen Lobb
+  - Benjamin Jean-Marie Tremblay
+  - Gabriel Moreno-Hagelsieb
+  - Andrew C Doxey
+  publisher: BMC genomics
+  date: '2021-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34521345
+- id: PMID:34666750
+  title: "Potentiation of long-acting \u03B2"
+  authors:
+  - Yechan Kim
+  - Vincent Hou
+  - Ryan D Huff
+  - Jennifer A Aguiar
+  - Spencer Revill
+  - Nicholas Tiessen
+  - Quynh Cao
+  - Matthew S Miller
+  - Mark D Inman
+  - Kjetil Ask
+  - Andrew C Doxey
+  - Jeremy A Hirota
+  publisher: Respiratory research
+  date: '2021-10-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34666750
+- id: PMID:35219763
+  title: '"From Protein Toxins to Applied Toxicological Testing" virtual workshop
+    identifies the need for a bioinformatic framework to assess novel food protein
+    safety.'
+  authors:
+  - Patricia A Bauman
+  - Andrew C Doxey
+  - Ivano Eberini
+  - Emir Islamovic
+  - Florence Jungo
+  - Colton Kessenich
+  - John Kough
+  - Mansi Krishan
+  - Luca Palazzolo
+  - Laura Privalle
+  - Chester E Rodriguez
+  - Karla J F Satchell
+  - Andre Silvanovich
+  - "Lucilia Pereira Mouri\xE8s"
+  publisher: 'Regulatory toxicology and pharmacology : RTP'
+  date: '2022-02-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35219763
+- id: PMID:35222299
+  title: 'Endogenous CRISPR-Cas Systems in Group I '
+  authors:
+  - Travis G Wentz
+  - Benjamin J M Tremblay
+  - Marite Bradshaw
+  - Andrew C Doxey
+  - Shashi K Sharma
+  - John-Demian Sauer
+  - Sabine Pellett
+  publisher: Frontiers in microbiology
+  date: '2022-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35222299
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
