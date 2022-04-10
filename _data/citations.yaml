@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1093/nar/gkz246
+  title: 'AnnoTree: visualization and exploration of a functionally annotated microbial
+    tree of life'
+  authors:
+  - Kerrin Mendler
+  - Han Chen
+  - Donovan H Parks
+  - Briallen Lobb
+  - Laura A Hug
+  - Andrew C Doxey
+  publisher: Nucleic Acids Research
+  date: '2019-04-09'
+  link: https://doi.org/ggqjv6
+  extra-links:
+  - type: website
+    text: AnnoTree
+    link: http://annotree.uwaterloo.ca
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
