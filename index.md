@@ -9,22 +9,7 @@ We are located within the Department of Biology, with cross-affiliations to the 
 
 Lab members include undergraduate and graduate students, postdocs, and research associates, with expertise in bioinformatics, genomics, molecular biology, and microbiology.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+
 {:.center}
 
 {% include section.html full=true %}
