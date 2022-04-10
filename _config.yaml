@@ -10,12 +10,10 @@ baseurl: doxeylab-website
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: acdoxey@uwaterloo.ca
+  google-scholar: Andrew Doxey
+  github: doxeylab
+  twitter: ACDoxey
 
 ### advanced settings
 
