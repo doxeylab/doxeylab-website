@@ -19,7 +19,7 @@ Lab members include undergraduate and graduate students, postdocs, and research 
   image="images/group.jpg"
   caption="Doxey Lab, 2020"
   link="team"
-  width="100%"
+  width="75%"
 %}
 
 
