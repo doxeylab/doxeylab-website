@@ -57,9 +57,17 @@
 - id: PMID:33370413
 - id: PMID:33384197
 - id: PMID:33416870
+  image: https://academic.oup.com/view-large/figure/234896747/btaa1105f1.tif
+  tags:
+    - resource
+    - analysis
 - id: PMID:33519501
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7838646/bin/fphys-11-588313-g002.jpg
+  tags:
+    - omics
 - id: PMID:33533410
-- id: PMID:33614779
+- id: DOI:10.1183/23120541.00705-2020
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7882787/bin/00705-2020.02.jpg
 - id: PMID:33852875
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/15188dcc-880e-40a1-ab18-8dd01ef3b686/fx1.jpg
   tags:
