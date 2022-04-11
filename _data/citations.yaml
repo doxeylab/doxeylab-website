@@ -765,6 +765,14 @@
   publisher: PLoS pathogens
   date: '2020-12-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33370413
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7853461/bin/ppat.1009181.g002.jpg
+  tags:
+  - pathogens
+  - omics
+  - resource
+  extra-links:
+  - type: website
+    link: https://diffbase.uwaterloo.ca/
 - id: PMID:33384197
   title: Unraveling the Zoonotic Origin and Transmission of SARS-CoV-2.
   authors:
@@ -775,6 +783,9 @@
   publisher: Trends in ecology & evolution
   date: '2020-12-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33384197
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7733689/bin/gr1_lrg.jpg
+  tags:
+  - COVID-19
 - id: PMID:33416870
   title: 'PhyloCorrelate: inferring bacterial gene-gene functional associations through
     large-scale phylogenetic profiling.'
