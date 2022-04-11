@@ -11,14 +11,51 @@
 - id: PMID:17272678
   image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/m_molbiolevolmsm024f04_4c.jpg
 - id: PMID:19014598
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/2605760/bin/1471-2148-8-316-1.jpg
+  tags:
+    - toxins
+    - analysis
 - id: PMID:19204814
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/2614203/bin/ebo-04-139-g02.jpg
 - id: PMID:20678238
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/2924342/bin/1472-6807-10-23-4.jpg
+  tags:
+    - proteins
+    - function prediction
 - id: PMID:21976714
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4b4e72dd-8696-4bfc-99b1-52486f376408/gr9.jpg
+  tags:
+    - proteins
 - id: PMID:22178248
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ebf5775a-18f7-40e1-a7e9-d89e30e6df92/fx1.jpg
+  tags:
+    - proteins
+    - analysis
+    - computational protein design
+    - evolution
 - id: PMID:23300632
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3531485/bin/pone.0052278.g009.jpg
+  tags:
+    - proteins
+    - function prediction
+    - evolution
 - id: PMID:23715053
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5359739/bin/kvir-04-06-10925180-g002.jpg
+  tags:
+    - pathogens
+    - analysis
 - id: PMID:24218641
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3826502/bin/rstb20130029-g3.jpg
+  tags:
+    - proteins
+    - function prediction
+    - analysis
 - id: PMID:25126756
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4303638/bin/ismej2014142f2.jpg
+  tags:
+    - function prediction
+    - microbial ecology
+    - omics
 - id: PMID:25399027
 - id: PMID:25541486
 - id: PMID:26257768
