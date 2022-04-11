@@ -63,7 +63,11 @@
 - id: PMID:33852875
 - id: PMID:33937724
 - id: PMID:34521345
-- id: PMID:34666750
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8442362/bin/12864_2021_7982_Fig2_HTML.jpg
+  tags:
+    - pathogens
+    - resource
+- id: DOI:10.1186/s12931-021-01862-1
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8527633/bin/12931_2021_1862_Fig4_HTML.jpg
 - id: PMID:35219763
 - id: DOI:10.3389/fmicb.2021.787726
