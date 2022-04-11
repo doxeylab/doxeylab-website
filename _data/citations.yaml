@@ -550,6 +550,13 @@
   publisher: Nature communications
   date: '2020-01-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31974369
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6978384/bin/41467_2020_14306_Fig1_HTML.jpg
+  tags:
+  - toxins
+  - pathogens
+  - analysis
+  - proteins
+  - function prediction
 - id: PMID:31984210
   title: "Effect of long-acting \u03B2-agonists/glucocorticoids on human airway epithelial\
     \ cell cytokine, transcriptomic and oxidative stress responses to cannabis smoke."
@@ -564,6 +571,7 @@
   publisher: ERJ open research
   date: '2020-01-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31984210
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6970181/bin/00265-2019.01.jpg
 - id: PMID:32124724
   title: An assessment of genome annotation coverage across the bacterial tree of
     life.
@@ -575,6 +583,9 @@
   publisher: Microbial genomics
   date: '2020-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32124724
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7200070/bin/mgen-6-341-g002.jpg
+  tags:
+  - analysis
 - id: PMID:32299893
   title: Genome Sequence of the Fish Brain Bacterium Clostridium tarantellae.
   authors:
@@ -592,6 +603,9 @@
   publisher: Microbiology resource announcements
   date: '2020-04-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32299893
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7163031/bin/MRA.01575-19-f0001.jpg
+  tags:
+  - omics
 - id: PMID:32332864
   title: High functional diversity among Nitrospira populations that dominate rotating
     biological contactor microbial communities in a municipal wastewater treatment
@@ -607,6 +621,10 @@
   publisher: The ISME journal
   date: '2020-04-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32332864
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7305129/bin/41396_2020_650_Fig3_HTML.jpg
+  tags:
+  - omics
+  - microbial ecology
 - id: PMID:32345738
   title: Time Series Resolution of the Fish Necrobiome Reveals a Decomposer Succession
     Involving Toxigenic Bacterial Pathogens.
@@ -623,6 +641,11 @@
   publisher: mSystems
   date: '2020-04-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32345738
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7190384/bin/mSystems.00145-20-f0002.jpg
+  tags:
+  - omics
+  - microbial ecology
+  - toxins
 - id: PMID:32675206
   title: 'Gene expression and '
   authors:
@@ -653,6 +676,10 @@
   publisher: The European respiratory journal
   date: '2020-09-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32675206
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7366180/bin/ERJ-01123-2020.03.jpg
+  tags:
+  - COVID-19
+  - analysis
 - id: PMID:32804439
   title: Slr4, a newly identified S-layer protein from marine Gammaproteobacteria,
     is a major biofilm matrix component.
@@ -670,6 +697,10 @@
   publisher: Molecular microbiology
   date: '2020-09-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32804439
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7821379/bin/MMI-114-979-g002.jpg
+  tags:
+  - proteins
+  - function prediction
 - id: PMID:32902372
   title: Predicting the recombination potential of severe acute respiratory syndrome
     coronavirus 2 and Middle East respiratory syndrome coronavirus.
@@ -687,6 +718,10 @@
   publisher: The Journal of general virology
   date: '2020-09-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32902372
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7819352/bin/jgv-101-1251-g001.jpg
+  tags:
+  - COVID-19
+  - analysis
 - id: PMID:33042865
   title: ABCF1 Regulates dsDNA-induced Immune Responses in Human Airway Epithelial
     Cells.
@@ -706,6 +741,7 @@
   publisher: Frontiers in cellular and infection microbiology
   date: '2020-09-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33042865
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7525020/bin/fcimb-10-00487-g0001.jpg
 - id: PMID:33149258
   title: Identification and characterization of the proteolytic flagellin from the
     common freshwater bacterium Hylemonella gracilis.
@@ -720,6 +756,11 @@
   publisher: Scientific reports
   date: '2020-11-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33149258
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7643111/bin/41598_2020_76010_Fig6_HTML.jpg
+  tags:
+  - proteins
+  - function prediction
+  - omics
 - id: PMID:33326193
   title: Large expert-curated database for benchmarking document similarity detection
     in biomedical literature search.
@@ -730,6 +771,7 @@
   publisher: 'Database : the journal of biological databases and curation'
   date: '2019-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33326193
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7291946/bin/baz085f3.jpg
 - id: PMID:33344628
   title: 'Expression of endocannabinoid system components in human airway epithelial
     cells: impact of sex and chronic respiratory disease status.'
@@ -750,6 +792,7 @@
   publisher: ERJ open research
   date: '2020-12-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33344628
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7737429/bin/00128-2020.01.jpg
 - id: PMID:33370413
   title: Phylogenomics of 8,839 Clostridioides difficile genomes reveals recombination-driven
     evolution and diversification of toxin A and B.
