@@ -903,6 +903,7 @@
   publisher: Respiratory research
   date: '2021-10-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34666750
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8527633/bin/12931_2021_1862_Fig4_HTML.jpg
 - id: PMID:35219763
   title: '"From Protein Toxins to Applied Toxicological Testing" virtual workshop
     identifies the need for a bioinformatic framework to assess novel food protein
@@ -942,6 +943,7 @@
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8865420/bin/fmicb-12-787726-g001.jpg
   tags:
   - analysis
+  - toxins
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
