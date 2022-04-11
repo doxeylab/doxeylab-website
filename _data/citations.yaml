@@ -703,12 +703,13 @@
   - omics
   - microbial ecology
   - toxins
-- id: PMID:32675206
-  title: 'Gene expression and '
+- id: DOI:10.1183/13993003.01123-2020
+  title: Gene expression and <i>in situ</i> protein profiling of candidate SARS-CoV-2
+    receptors in human airway epithelial cells and lung tissue
   authors:
-  - Jennifer A Aguiar
-  - Benjamin J-M Tremblay
-  - Michael J Mansfield
+  - Jennifer A. Aguiar
+  - Benjamin J-M. Tremblay
+  - Michael J. Mansfield
   - Owen Woody
   - Briallen Lobb
   - Arinjay Banerjee
@@ -717,22 +718,22 @@
   - Quynh Cao
   - Anna Dvorkin-Gheva
   - Spencer Revill
-  - Matthew S Miller
+  - Matthew S. Miller
   - Christopher Carlsten
   - Louise Organ
   - Chitra Joseph
   - Alison John
   - Paul Hanson
-  - Richard C Austin
-  - Bruce M McManus
+  - Richard C. Austin
+  - Bruce M. McManus
   - Gisli Jenkins
   - Karen Mossman
   - Kjetil Ask
-  - Andrew C Doxey
-  - Jeremy A Hirota
-  publisher: The European respiratory journal
-  date: '2020-09-03'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32675206
+  - Andrew C. Doxey
+  - Jeremy A. Hirota
+  publisher: European Respiratory Journal
+  date: '2020-07-16'
+  link: https://doi.org/gnqtj8
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7366180/bin/ERJ-01123-2020.03.jpg
   tags:
   - COVID-19
