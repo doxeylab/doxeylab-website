@@ -12,6 +12,10 @@
   publisher: Plant physiology
   date: '2006-06-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16815958
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/1533947/bin/pp1411459f09.jpg
+  tags:
+  - proteins
+  - function prediction
 - id: PMID:16823370
   title: Ordered surface carbons distinguish antifreeze proteins and their ice-binding
     regions.
@@ -23,6 +27,10 @@
   publisher: Nature biotechnology
   date: '2006-07-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16823370
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnbt1224/MediaObjects/41587_2006_Article_BFnbt1224_Fig1_HTML.jpg
+  tags:
+  - proteins
+  - function prediction
 - id: PMID:17272678
   title: Functional divergence in the Arabidopsis beta-1,3-glucanase gene family inferred
     by phylogenetic reconstruction of expression states.
