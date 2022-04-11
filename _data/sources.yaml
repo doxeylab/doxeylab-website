@@ -61,7 +61,15 @@
 - id: PMID:33533410
 - id: PMID:33614779
 - id: PMID:33852875
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/15188dcc-880e-40a1-ab18-8dd01ef3b686/fx1.jpg
+  tags:
+    - omics
+    - cancer
 - id: PMID:33937724
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8169947/bin/fx1.jpg
+  tags:
+    - omics
+    - COVID-19
 - id: PMID:34521345
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8442362/bin/12864_2021_7982_Fig2_HTML.jpg
   tags:
