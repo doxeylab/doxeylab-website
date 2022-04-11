@@ -7,10 +7,8 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab develops and applies computational methods to discover novel biological phenomena. Our work has applications across a number of fields from molecular and microbiology to human health and disease. Below are our lab's publications, organized by research topic. For a potentially more up-to-date list, please see [Google Scholar](https://scholar.google.ca/citations?user=iUQqmUYAAAAJ)
+
 
 {% include section.html %}
 
