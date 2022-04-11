@@ -23,13 +23,6 @@ We are lucky to work with numerous research groups around the world, and we are 
 
 {% include section.html %}
 
-# News
-
-<!-- Twitter embeds from https://publish.twitter.com/ -->
-
-<a class="twitter-timeline" data-height="600" href="https://twitter.com/ACDoxey">Tweets by ACDoxey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
-
 
 # Highlights
 
