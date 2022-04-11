@@ -840,6 +840,10 @@
   publisher: Cell metabolism
   date: '2021-04-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33852875
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/15188dcc-880e-40a1-ab18-8dd01ef3b686/fx1.jpg
+  tags:
+  - omics
+  - cancer
 - id: PMID:33937724
   title: Experimental and natural evidence of SARS-CoV-2-infection-induced activation
     of type I interferon responses.
@@ -875,6 +879,10 @@
   publisher: iScience
   date: '2021-04-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33937724
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8169947/bin/fx1.jpg
+  tags:
+  - omics
+  - COVID-19
 - id: PMID:34521345
   title: 'PathFams: statistical detection of pathogen-associated protein domains.'
   authors:
