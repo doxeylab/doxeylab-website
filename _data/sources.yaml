@@ -1,5 +1,13 @@
 - id: PMID:16815958
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/1533947/bin/pp1411459f09.jpg
+  tags:
+    - proteins
+    - function prediction
 - id: PMID:16823370
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnbt1224/MediaObjects/41587_2006_Article_BFnbt1224_Fig1_HTML.jpg
+  tags:
+    - proteins
+    - function prediction
 - id: PMID:17272678
 - id: PMID:19014598
 - id: PMID:19204814
