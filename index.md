@@ -4,11 +4,9 @@ title: Home
 
 # Biology as a Data Science
 
-The Doxey lab is a bioinformatics / computational biology research lab at the University of Waterloo.
-We are located within the Department of Biology, with cross-affiliations to the Cheriton School of Computer Science.
+The Doxey lab is a bioinformatics research lab at the University of Waterloo, in the Department of Biology and cross-affiliated to the Cheriton School of Computer Science. We develop and use <bf>computational</bf> approaches to analyze and compare genomes, and we apply <bf>experimental</bf> approaches to characterize new gene families and functions that we predict from data. Our work spans several fields including: pathogen biology, gene/protein function prediction, evolutionary genomics, and omics analysis of human disease.
 
-Lab members include undergraduate and graduate students, postdocs, and research associates, with expertise in bioinformatics, genomics, molecular biology, and microbiology.
-
+We are lucky to work with numerous research groups around the world, and we are always looking for new collaborations. Don't hesitate to contact us!
 
 {:.center}
 
@@ -43,7 +41,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/flagellins.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -65,7 +63,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tree.png"
   link="resources"
   title="Our Resources"
   flip=true
@@ -73,7 +71,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Our team includes undergraduate and graduate students, postdocs, and research associates, with expertise in bioinformatics, genomics, molecular biology, and microbiology.
 
 {%
   include link.html
