@@ -777,6 +777,10 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2021-01-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33416870
+  image: https://academic.oup.com/view-large/figure/234896747/btaa1105f1.tif
+  tags:
+  - resource
+  - analysis
 - id: PMID:33519501
   title: High Throughput Sequencing of MicroRNA in Rainbow Trout Plasma, Mucus, and
     Surrounding Water Following Acute Stress.
@@ -791,6 +795,9 @@
   publisher: Frontiers in physiology
   date: '2021-01-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33519501
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7838646/bin/fphys-11-588313-g002.jpg
+  tags:
+  - omics
 - id: PMID:33533410
   title: 'AXIOME3: Automation, eXtension, and Integration Of Microbial Ecology.'
   authors:
@@ -800,23 +807,25 @@
   publisher: GigaScience
   date: '2021-02-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33533410
-- id: PMID:33614779
-  title: 'Development and validation of an open-source, disposable, 3D-printed '
+- id: DOI:10.1183/23120541.00705-2020
+  title: Development and validation of an open-source, disposable, 3D-printed <i>in
+    vitro</i> environmental exposure system for Transwell culture inserts
   authors:
   - Abiram Chandiramohan
   - Mohammedhossein Dabaghi
-  - Jennifer A Aguiar
+  - Jennifer A. Aguiar
   - Nicholas Tiessen
   - Mary Stewart
-  - Quynh T Cao
-  - Jenny P Nguyen
+  - Quynh T. Cao
+  - Jenny P. Nguyen
   - Nima Makhdami
   - Gerard Cox
-  - Andrew C Doxey
-  - Jeremy A Hirota
-  publisher: ERJ open research
-  date: '2021-02-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33614779
+  - Andrew C. Doxey
+  - Jeremy A. Hirota
+  publisher: ERJ Open Research
+  date: '2020-12-10'
+  link: https://doi.org/gpvr55
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7882787/bin/00705-2020.02.jpg
 - id: PMID:33852875
   title: Metabolic flexibility determines human NK cell functional fate in the tumor
     microenvironment.
