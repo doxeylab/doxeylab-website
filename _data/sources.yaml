@@ -57,9 +57,29 @@
     - microbial ecology
     - omics
 - id: PMID:25399027
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/m_btu681f1p.jpg
+  tags:
+    - resource
+    - proteins
+    - pathogens
 - id: PMID:25541486
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/a71329e0-7354-42b1-a8b4-973e9f84e4ce/feb2s0014579314008989-f0015-m.jpg
+  tags:
+    - toxins
+    - function prediction
+    - evolution
 - id: PMID:26257768
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4508852/bin/fgene-06-00234-g0003.jpg
+  tags:
+    - metagenomics
+    - proteins
+    - function prediction
 - id: PMID:26541816
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4636000/bin/12915_2015_195_Fig2_HTML.jpg
+  tags:
+    - metagenomics
+    - function prediction
+    - resource
 - id: PMID:27289211
 - id: PMID:27943515
 - id: PMID:28052926
