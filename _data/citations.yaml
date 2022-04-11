@@ -201,6 +201,11 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2014-10-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25399027
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/m_btu681f1p.jpg
+  tags:
+  - resource
+  - proteins
+  - pathogens
 - id: PMID:25541486
   title: Botulinum neurotoxin homologs in non-Clostridium species.
   authors:
@@ -210,6 +215,11 @@
   publisher: FEBS letters
   date: '2014-12-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25541486
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/a71329e0-7354-42b1-a8b4-973e9f84e4ce/feb2s0014579314008989-f0015-m.jpg
+  tags:
+  - toxins
+  - function prediction
+  - evolution
 - id: PMID:26257768
   title: Remote homology and the functions of metagenomic dark matter.
   authors:
@@ -220,6 +230,11 @@
   publisher: Frontiers in genetics
   date: '2015-07-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26257768
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4508852/bin/fgene-06-00234-g0003.jpg
+  tags:
+  - metagenomics
+  - proteins
+  - function prediction
 - id: PMID:26541816
   title: 'MetAnnotate: function-specific taxonomic profiling and comparison of metagenomes.'
   authors:
@@ -231,6 +246,11 @@
   publisher: BMC biology
   date: '2015-11-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26541816
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4636000/bin/12915_2015_195_Fig2_HTML.jpg
+  tags:
+  - metagenomics
+  - function prediction
+  - resource
 - id: PMID:27289211
   title: Novel function discovery through sequence and structural data mining.
   authors:
