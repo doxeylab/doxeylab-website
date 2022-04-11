@@ -43,6 +43,7 @@
   publisher: Molecular biology and evolution
   date: '2007-02-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17272678
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/m_molbiolevolmsm024f04_4c.jpg
 - id: PMID:19014598
   title: Insights into the evolutionary origins of clostridial neurotoxins from analysis
     of the Clostridium botulinum strain A neurotoxin gene cluster.
@@ -796,7 +797,7 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2021-01-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33416870
-  image: https://academic.oup.com/view-large/figure/234896747/btaa1105f1.tif
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/btaa1105f1.jpg
   tags:
   - resource
   - analysis
