@@ -9,6 +9,7 @@
     - proteins
     - function prediction
 - id: PMID:17272678
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/m_molbiolevolmsm024f04_4c.jpg
 - id: PMID:19014598
 - id: PMID:19204814
 - id: PMID:20678238
@@ -77,7 +78,7 @@
   tags:
     - COVID-19
 - id: PMID:33416870
-  image: https://academic.oup.com/view-large/figure/234896747/btaa1105f1.tif
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/btaa1105f1.jpg
   tags:
     - resource
     - analysis
