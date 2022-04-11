@@ -63,7 +63,19 @@
 - id: PMID:33326193
 - id: PMID:33344628
 - id: PMID:33370413
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7853461/bin/ppat.1009181.g002.jpg
+  tags:
+    - pathogens
+    - omics
+    - resource
+  extra-links:
+    - type: website
+      link: https://diffbase.uwaterloo.ca/
+
 - id: PMID:33384197
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7733689/bin/gr1_lrg.jpg
+  tags:
+    - COVID-19
 - id: PMID:33416870
   image: https://academic.oup.com/view-large/figure/234896747/btaa1105f1.tif
   tags:
