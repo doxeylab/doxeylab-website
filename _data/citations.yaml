@@ -925,19 +925,23 @@
   publisher: 'Regulatory toxicology and pharmacology : RTP'
   date: '2022-02-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35219763
-- id: PMID:35222299
-  title: 'Endogenous CRISPR-Cas Systems in Group I '
+- id: DOI:10.3389/fmicb.2021.787726
+  title: Endogenous CRISPR-Cas Systems in Group I Clostridium botulinum and Clostridium
+    sporogenes Do Not Directly Target the Botulinum Neurotoxin Gene Cluster
   authors:
-  - Travis G Wentz
-  - Benjamin J M Tremblay
+  - Travis G. Wentz
+  - Benjamin J. M. Tremblay
   - Marite Bradshaw
-  - Andrew C Doxey
-  - Shashi K Sharma
+  - Andrew C. Doxey
+  - Shashi K. Sharma
   - John-Demian Sauer
   - Sabine Pellett
-  publisher: Frontiers in microbiology
+  publisher: Frontiers in Microbiology
   date: '2022-02-09'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35222299
+  link: https://doi.org/gpvq77
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8865420/bin/fmicb-12-787726-g001.jpg
+  tags:
+  - analysis
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
