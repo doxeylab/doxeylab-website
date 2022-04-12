@@ -121,16 +121,43 @@
     - omics
     - function prediction
 - id: PMID:29203905
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5715007/bin/41598_2017_17236_Fig5_HTML.gif
+  tags:
+    - evolution
+    - function prediction
 - id: PMID:29205154
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5716665/bin/elife-29329-fig1.jpg
 - id: PMID:29291746
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5748958/bin/40168_2017_383_Fig4_HTML.jpg
+  tags:
+    - metagenomics
+    - microbial ecology
 - id: PMID:29396040
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5926203/bin/nihms931834f2.jpg
+  tags:
+    - toxins
+    - pathogens
+    - omics
+    - function prediction
+    - evolution
 - id: PMID:29438679
 - id: PMID:29684130
 - id: PMID:29954919
 - id: PMID:30058084
 - id: PMID:30533733
 - id: PMID:30655622
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6336805/bin/41598_2018_36248_Fig1_HTML.jpg
+  tags:
+    - omics
+    - analysis
+    - disease
 - id: PMID:30733520
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6367388/bin/41598_2018_37647_Fig3_HTML.jpg
+  tags:
+    - toxins
+    - analysis
+    - evolution
+    - function prediction
 - id: PMID:31081040
 - id: PMID:31117023
 - id: PMID:31240307
