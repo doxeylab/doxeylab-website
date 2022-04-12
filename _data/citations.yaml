@@ -296,6 +296,11 @@
   publisher: PloS one
   date: '2017-03-08'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28273103
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5342196/bin/pone.0172545.g004.jpg
+  tags:
+  - metagenomics
+  - proteins
+  - function prediction
 - id: PMID:28671685
   title: Ancient selection for derived alleles at a GDF5 enhancer influencing human
     growth and osteoarthritis risk.
@@ -310,6 +315,11 @@
   publisher: Nature genetics
   date: '2017-07-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28671685
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6556117/bin/nihms-884460-f0006.jpg
+  tags:
+  - evolution
+  - disease
+  - omics
 - id: PMID:28761935
   title: The Skin Microbiome of Cohabiting Couples.
   authors:
@@ -319,6 +329,10 @@
   publisher: mSystems
   date: '2017-07-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28761935
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5527301/bin/sys0041721210001.jpg
+  tags:
+  - microbial ecology
+  - omics
 - id: PMID:28785417
   title: Metagenomic data-mining reveals contrasting microbial populations responsible
     for trimethylamine formation in human gut and marine ecosystems.
@@ -332,6 +346,11 @@
   publisher: Microbial genomics
   date: '2016-09-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28785417
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5537630/bin/mgen-02-80-f003.jpg
+  tags:
+  - metagenomics
+  - microbial ecology
+  - toxins
 - id: PMID:28835383
   title: "Estrogen Receptor \u03B2 Is a Novel Target in Acute Myeloid Leukemia."
   authors:
@@ -352,6 +371,9 @@
   publisher: Molecular cancer therapeutics
   date: '2017-08-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28835383
+  tags:
+  - cancer
+  - function prediction
 - id: PMID:28900095
   title: Discovery of a proteolytic flagellin family in diverse bacterial phyla that
     assembles enzymatically active flagella.
@@ -370,6 +392,10 @@
   publisher: Nature communications
   date: '2017-09-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28900095
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5595980/bin/41467_2017_599_Fig1_HTML.jpg
+  tags:
+  - function prediction
+  - proteins
 - id: PMID:28905000
   title: 'Transcriptome Analysis of Polyhydroxybutyrate Cycle Mutants Reveals Discrete
     Loci Connecting Nitrogen Utilization and Carbon Storage in '
@@ -381,6 +407,10 @@
   publisher: mSystems
   date: '2017-09-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28905000
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5596199/bin/sys0041721290002.jpg
+  tags:
+  - omics
+  - function prediction
 - id: PMID:29203905
   title: Rainbow trout exposed to benzo[a]pyrene yields conserved microRNA binding
     sites in DNA methyltransferases across 500 million years of evolution.
