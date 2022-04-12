@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Here is our team
+## Current members
 
 {% include section.html %}
 
@@ -37,12 +37,26 @@ Here is our team
 %}
 {:.center}
 
+
+## Alumni
+{% include section.html %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: msc"
+%}
+{:.center}
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
+
+
 
 ## Join
 
