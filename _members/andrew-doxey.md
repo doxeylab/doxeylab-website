@@ -1,5 +1,5 @@
 ---
-name: Andrew C. Doxey
+name: Andrew Doxey
 image: images/member.jpg
 description: Bioinformatician
 role: pi
