@@ -38,9 +38,6 @@ nav:
 {:.center}
 
 
-
-{% include section.html %}
-
 ## Alumni
 
 {% include list.html 
