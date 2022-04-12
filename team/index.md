@@ -27,7 +27,7 @@ Here is our team
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: phd"
 %}
 {:.center}
 
