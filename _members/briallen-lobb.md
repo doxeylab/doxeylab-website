@@ -1,7 +1,7 @@
 ---
 name: Briallen Lobb, Ph.D.
 image: images/member.jpg
-description: bioinformatician
+description: Postdoctoral Researcher
 role: postdoc
 ---
 
