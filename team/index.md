@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-## Current members
-
 {% include section.html %}
+
+## Current members
 
 {%
   include list.html
@@ -38,14 +38,15 @@ nav:
 {:.center}
 
 
-## Alumni
+
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: msc"
+## Alumni
+
+{% include list.html 
+   data="members"
+   component="portrait"
+   filters="status: alumni" style="small"
 %}
 {:.center}
 
