@@ -425,6 +425,10 @@
   publisher: Scientific reports
   date: '2017-12-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29203905
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5715007/bin/41598_2017_17236_Fig5_HTML.gif
+  tags:
+  - evolution
+  - function prediction
 - id: PMID:29205154
   title: Epigenetic profiling of growth plate chondrocytes sheds insight into regulatory
     genetic variation influencing height.
@@ -441,6 +445,7 @@
   publisher: eLife
   date: '2017-12-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29205154
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5716665/bin/elife-29329-fig1.jpg
 - id: PMID:29291746
   title: 'Aerobic proteobacterial methylotrophs in Movile Cave: genomic and metagenomic
     analyses.'
@@ -456,6 +461,10 @@
   publisher: Microbiome
   date: '2018-01-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29291746
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5748958/bin/40168_2017_383_Fig4_HTML.jpg
+  tags:
+  - metagenomics
+  - microbial ecology
 - id: PMID:29396040
   title: Identification of a Botulinum Neurotoxin-like Toxin in a Commensal Strain
     of Enterococcus faecium.
@@ -476,6 +485,13 @@
   publisher: Cell host & microbe
   date: '2018-01-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29396040
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5926203/bin/nihms931834f2.jpg
+  tags:
+  - toxins
+  - pathogens
+  - omics
+  - function prediction
+  - evolution
 - id: PMID:29438679
   title: Discovery of novel bacterial toxins by genomics and computational biology.
   authors:
@@ -544,6 +560,11 @@
   publisher: Scientific reports
   date: '2019-01-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30655622
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6336805/bin/41598_2018_36248_Fig1_HTML.jpg
+  tags:
+  - omics
+  - analysis
+  - disease
 - id: PMID:30733520
   title: Bioinformatic discovery of a toxin family in Chryseobacterium piperi with
     sequence similarity to botulinum neurotoxins.
@@ -558,6 +579,12 @@
   publisher: Scientific reports
   date: '2019-02-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30733520
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6367388/bin/41598_2018_37647_Fig3_HTML.jpg
+  tags:
+  - toxins
+  - analysis
+  - evolution
+  - function prediction
 - id: PMID:31081040
   title: 'AnnoTree: visualization and exploration of a functionally annotated microbial
     tree of life.'
