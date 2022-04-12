@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Here is our team.
+Here is our team
 
 {% include section.html %}
 
