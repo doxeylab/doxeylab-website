@@ -1,5 +1,5 @@
 ---
-name: Briallen Lobb, Ph.D.
+name: Briallen Lobb
 image: images/member.jpg
 description: Postdoctoral Researcher
 role: postdoc
