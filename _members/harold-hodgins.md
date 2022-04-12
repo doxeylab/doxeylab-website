@@ -2,7 +2,7 @@
 name: Harold Hodgins
 image: images/member.jpg
 description: Graduate Student
-role: phd
+role: msc
 group: current
 aliases:
   - H. Hodgins
