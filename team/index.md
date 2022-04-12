@@ -21,19 +21,19 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc, status: current"
+  filters="role: postdoc, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd, status: current"
+  filters="role: phd, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: msc, status: current"
+  filters="role: msc, group: current"
 %}
 {:.center}
 
@@ -43,7 +43,7 @@ nav:
 {% include list.html 
    data="members"
    component="portrait"
-   filters="status: alumni"
+   filters="group: alumni"
    style="small"
 %}
 {:.center}
