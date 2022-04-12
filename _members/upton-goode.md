@@ -1,18 +1,11 @@
 ---
-name: Upton O. Goode
+name: Andrew C. Doxey
 image: images/member.jpg
-description: Bone Investigator
+description: Bioinformatician
 role: pi
-aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  orcid: 0000-0003-2015-099X
+  email: acdoxey@uwaterloo.ca
+  twitter: ACDoxey
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
