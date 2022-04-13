@@ -35,7 +35,7 @@
 
 - title: MetAnnotate
   group: more
-  image: images/photo.jpg
+  image: images/metannotate.png
   link: https://bitbucket.org/doxeylab/metannotate
   description: Function-specific taxonomic profiling of metagenomes.
   tags:
