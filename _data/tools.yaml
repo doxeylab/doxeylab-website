@@ -7,7 +7,7 @@
     - software
 
 - title: PhyloCorrelate
-  group: featured
+  group: more
   image: images/phylocorrelate.png
   link: https://phylocorrelate.uwaterloo.ca/
   description: Statistical detection of co-occurring genes across phylogenetic trees
@@ -17,7 +17,7 @@
     - R package
 
 - title: DiffBase
-  group: featured
+  group: more
   image: images/photo.jpg
   link: https://diffbase.uwaterloo.ca/
   description: A bioinformatic database and phylogenetic classification of C. difficile toxins
@@ -25,7 +25,7 @@
     - database
 
 - title: PathFams
-  group: featured
+  group: more
   image: images/pathfams.png
   link: https://pathfams.uwaterloo.ca
   description: A database of pathogen-associated protein domains, and additional statistics on PFAM families.
@@ -33,13 +33,12 @@
     - resource
     - tool
 
-- title: Cool Web App
+- title: MetAnnotate
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://bitbucket.org/doxeylab/metannotate
+  description: Function-specific taxonomic profiling of metagenomes.
   tags:
-    - software
+    - tool
 
 
