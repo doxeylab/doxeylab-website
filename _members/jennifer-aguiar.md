@@ -1,11 +1,11 @@
 ---
 name: Jennifer Aguiar
-image: images/member.jpg
+image: images/team/jennifer-aguiar.jpg
 description: Graduate Student
 role: phd
 group: alumni
 aliases:
   - J. Aguiar
-  - J Aguiar
+  - Aguiar
 ---
 
