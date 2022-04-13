@@ -46,9 +46,7 @@ Our current team and lab alumni are listed below. If you are missing from this l
 
 {% include list.html 
    data="members"
-   component="portrait"
    filters="group: alumni"
-   style="tiny"
 %}
 {:.center}
 
