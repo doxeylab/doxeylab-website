@@ -1,7 +1,7 @@
 ---
 name: Benjamin Tremblay
 image: images/member.jpg
-description: Graduate Student
+description: Bioinformatician / software developer
 role: bioinformatician
 group: alumni
 aliases:
