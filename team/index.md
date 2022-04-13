@@ -7,6 +7,10 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
+We have been fortunate to have an outstanding team composed of students and researchers at all levels from undergrads to PhD students to Postdocs. We are always looking for new members to join our lab!
+
+Our current team and lab alumni are listed below. If you are missing from this list, let us know.
+
 {% include section.html %}
 
 ## Current members
