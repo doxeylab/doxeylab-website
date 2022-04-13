@@ -18,7 +18,7 @@ We are lucky to work with numerous research groups around the world, and we are 
   width="100%"
 %}
 
-{% include section.html full=true %}
+{% include section.html %}
 
 # Highlights
 
