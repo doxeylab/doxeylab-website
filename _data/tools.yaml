@@ -6,35 +6,32 @@
   tags:
     - software
 
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: PhyloCorrelate
+  group: featured
+  image: images/phylocorrelate.png
+  link: https://phylocorrelate.uwaterloo.ca/
+  description: Statistical detection of co-occurring genes across phylogenetic trees
+  tags:
+    - resource
+    - software
+    - R package
+
+- title: DiffBase
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://diffbase.uwaterloo.ca/
+  description: A bioinformatic database and phylogenetic classification of C. difficile toxins
   tags:
-    - resource
+    - database
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: PathFams
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/pathfams.png
+  link: https://pathfams.uwaterloo.ca
+  description: A database of pathogen-associated protein domains, and additional statistics on PFAM families.
   tags:
     - resource
-
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+    - tool
 
 - title: Cool Web App
   group: more
