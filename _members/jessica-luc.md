@@ -1,6 +1,6 @@
 ---
 name: Jessica Luc
-image: images/member.jpg
+image: images/team/jessica-luc.jpg
 description: Graduate Student
 role: msc
 group: current
