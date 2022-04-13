@@ -10,19 +10,15 @@ We are lucky to work with numerous research groups around the world, and we are 
 
 {:.center}
 
-{% include section.html full=true %}
-
 {%
   include figure.html
   image="images/group.jpg"
   caption="Doxey Lab, 2020"
   link="team"
-  width="75%"
+  width="100%"
 %}
 
-
-{% include section.html %}
-
+{% include section.html full=true %}
 
 # Highlights
 
