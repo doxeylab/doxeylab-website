@@ -4,8 +4,8 @@ image: images/member.jpg
 description: Professor / Principal Investigator
 role: pi
 aliases:
-  - A. Doxey
-  - A.C. Doxey
+  - Andrew C Doxey
+  - Andrew C. Doxey
   - AC Doxey
   - A Doxey
 links:
