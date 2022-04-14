@@ -1,6 +1,6 @@
 ---
 name: Kerrin Mendler
-image: images/kerrin-mendler.jpg
+image: images/team/kerrin-mendler.jpg
 description: Graduate Student
 role: msc
 group: alumni
