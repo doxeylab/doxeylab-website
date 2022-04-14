@@ -1,6 +1,6 @@
 ---
 name: Xin Wei
-image: images/member.jpg
+image: images/team/xin-wei.jpg
 description: Graduate Student
 role: phd
 group: current
