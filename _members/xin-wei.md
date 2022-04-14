@@ -14,4 +14,4 @@ links:
 
 ---
 
-Bio: Xin is a Ph.D. student in the Doxey lab. After completing a B.Sc. in Bioengineering in China, Xin came to Canada and completed a MSc in Bioinformatics from the University of Guelph (2019). Xin's work in the lab focuses on comparing evolutionary profiles of microbial gene families.
+Bio: Xin is a Ph.D. student in the Doxey lab. After completing a B.Sc. in Bioengineering from Jiangxi Agricultural University (China), Xin came to Canada and completed a MSc in Bioinformatics from the University of Guelph (2019). Xin's work in the Doxey lab focuses on comparing evolutionary profiles of microbial gene families.
