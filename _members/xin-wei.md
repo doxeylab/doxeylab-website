@@ -6,7 +6,7 @@ role: phd
 group: current
 aliases:
   - X. Wei
-  - Wei
+  - Xin Wei
 links:
   email: x86wei@uwaterloo.ca
   linkedin: xin-wei-satellite
