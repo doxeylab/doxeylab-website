@@ -8,7 +8,6 @@ aliases:
   - X. Wei
   - X Wei
 links:
-  home-page: https://tims-website.com/
   email: x86wei@uwaterloo.ca
   linkedin: xin-wei-satellite
   google-scholar: GnHNAgoAAAAJ&hl
