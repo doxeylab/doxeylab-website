@@ -1,6 +1,6 @@
 ---
 name: Jeremy Adams
-image: images/member.jpg
+image: images/jeremy-adams.jpg
 description: Graduate Student
 role: msc
 group: alumni
