@@ -1,6 +1,6 @@
 ---
 name: Hina Bandukwala
-image: images/member.jpg
+image: images/team/hina-bandukwala.jpg
 description: Graduate Student
 role: msc
 group: alumni
