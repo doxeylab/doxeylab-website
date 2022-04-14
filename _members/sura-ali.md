@@ -1,6 +1,6 @@
 ---
 name: Sura Ali
-image: images/member.jpg
+image: images/sura-ali.jpg
 description: Graduate Student
 role: phd
 group: current
