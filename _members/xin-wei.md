@@ -7,6 +7,12 @@ group: current
 aliases:
   - X. Wei
   - X Wei
+links:
+  home-page: https://tims-website.com/
+  email: x86wei@uwaterloo.ca
+  linkedin: xin-wei-satellite
+  google-scholar: GnHNAgoAAAAJ&hl
+
 ---
 
-Xin is working on...
+Bio: Xin is a Ph.D. student in the Doxey lab. She got a B.Sc. in Bioengineering in China. Then she came to Canada and graduated from the University of Guelph with a Master in Bioinformatics in 2019. Xin is interested in comparing evolutionary profiles of gene families.
