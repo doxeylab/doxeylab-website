@@ -1,6 +1,6 @@
 ---
 name: Vanessa Poletto-Borges
-image: images/member.jpg
+image: images/team/vanessa-poletto-borges.jpg
 description: Graduate Student
 role: phd
 group: current
