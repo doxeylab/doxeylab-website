@@ -1,6 +1,6 @@
 ---
 name: Lee Bergstrand
-image: images/member.jpg
+image: images/team/lee-bergstrand.jpg
 description: Graduate Student
 role: msc
 group: alumni
