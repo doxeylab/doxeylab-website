@@ -161,8 +161,13 @@
 - id: PMID:31081040
 - id: PMID:31117023
 - id: PMID:31240307
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/pygenprop.jpg
+  tags:
+    - resource
+    - genomics
 - id: PMID:31492962
 - id: PMID:31628906
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/biofilmmodel.jpg
 - id: PMID:31646766
 - id: PMID:31974369
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6978384/bin/41467_2020_14306_Fig1_HTML.jpg
