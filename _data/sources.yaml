@@ -81,6 +81,10 @@
     - function prediction
     - resource
 - id: PMID:27289211
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/cosb-novelfunctions.jpg
+  tags:
+    - function prediction
+    - proteins
 - id: PMID:27943515
 - id: PMID:28052926
 - id: PMID:28273103
@@ -242,6 +246,9 @@
   -  analysis
 - id: PMID:33042865
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7525020/bin/fcimb-10-00487-g0001.jpg
+  tags:
+    - omics
+    - lung
 - id: PMID:33149258
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7643111/bin/41598_2020_76010_Fig6_HTML.jpg
   tags:
