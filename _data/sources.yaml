@@ -144,7 +144,15 @@
 - id: PMID:29684130
 - id: PMID:29954919
 - id: PMID:30058084
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/dt.png
+  tags:
+    - pathogens
+    - toxins
+    - evolution
 - id: PMID:30533733
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/contigFasta.jpg
+  tags:
+    - metagenomics
 - id: PMID:30655622
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6336805/bin/41598_2018_36248_Fig1_HTML.jpg
   tags:
