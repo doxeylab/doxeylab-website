@@ -617,6 +617,10 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2019-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31240307
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/pygenprop.jpg
+  tags:
+  - resource
+  - genomics
 - id: PMID:31492962
   title: Metagenomic and chemical characterization of soil cobalamin production.
   authors:
@@ -639,6 +643,7 @@
   publisher: Journal of theoretical biology
   date: '2019-10-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31628906
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/biofilmmodel.jpg
 - id: PMID:31646766
   title: Transcriptomic and barrier responses of human airway epithelial cells exposed
     to cannabis smoke.
