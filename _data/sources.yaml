@@ -169,6 +169,10 @@
 - id: PMID:31628906
   image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/biofilmmodel.jpg
 - id: PMID:31646766
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6811686/bin/PHY2-7-e14249-g001.jpg
+  tags:
+    - transcriptomics
+    - lung
 - id: PMID:31974369
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6978384/bin/41467_2020_14306_Fig1_HTML.jpg
   tags:
