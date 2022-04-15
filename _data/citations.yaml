@@ -658,6 +658,10 @@
   publisher: Physiological reports
   date: '2019-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31646766
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6811686/bin/PHY2-7-e14249-g001.jpg
+  tags:
+  - transcriptomics
+  - lung
 - id: PMID:31974369
   title: The C. difficile toxin B membrane translocation machinery is an evolutionarily
     conserved protein delivery apparatus.
