@@ -532,6 +532,11 @@
   publisher: FEBS letters
   date: '2018-08-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30058084
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/dt.png
+  tags:
+  - pathogens
+  - toxins
+  - evolution
 - id: PMID:30533733
   title: Metagenomic Sequencing of Wastewater from a South African Research Farm.
   authors:
@@ -543,6 +548,9 @@
   publisher: Microbiology resource announcements
   date: '2018-10-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30533733
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/contigFasta.jpg
+  tags:
+  - metagenomics
 - id: PMID:30655622
   title: The impact of cigarette smoke exposure, COPD, or asthma status on ABC transporter
     gene expression in human airway epithelial cells.
