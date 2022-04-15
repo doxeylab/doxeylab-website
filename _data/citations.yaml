@@ -985,6 +985,11 @@
   publisher: GigaScience
   date: '2021-02-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33533410
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931817/bin/giab006fig1.jpg
+  tags:
+  - resource
+  - microbial ecology
+  - metagenomics
 - id: DOI:10.1183/23120541.00705-2020
   title: Development and validation of an open-source, disposable, 3D-printed <i>in
     vitro</i> environmental exposure system for Transwell culture inserts
