@@ -159,13 +159,28 @@
     - evolution
     - function prediction
 - id: PMID:31081040
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6511854/bin/gkz246fig2.jpg
+  tags:
+    - resource
+    - evolution
+    - genomics
+    - function prediction
 - id: PMID:31117023
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6529551/bin/mSystems.00162-19-f0001.jpg
+  tags:
+    - pathogens
+    - toxins
+    - evolution
 - id: PMID:31240307
   image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/pygenprop.jpg
   tags:
     - resource
     - genomics
 - id: PMID:31492962
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6908642/bin/41396_2019_502_Fig1_HTML.jpg
+  tags:
+    - metagenomics
+    - microbial ecology
 - id: PMID:31628906
   image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/biofilmmodel.jpg
 - id: PMID:31646766
