@@ -598,6 +598,12 @@
   publisher: Nucleic acids research
   date: '2019-05-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31081040
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6511854/bin/gkz246fig2.jpg
+  tags:
+  - resource
+  - evolution
+  - genomics
+  - function prediction
 - id: PMID:31117023
   title: Exploring the Evolution of Virulence Factors through Bioinformatic Data Mining.
   authors:
@@ -607,6 +613,11 @@
   publisher: mSystems
   date: '2019-05-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31117023
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6529551/bin/mSystems.00162-19-f0001.jpg
+  tags:
+  - pathogens
+  - toxins
+  - evolution
 - id: PMID:31240307
   title: 'Pygenprop: a Python library for programmatic exploration and comparison
     of organism genome properties.'
@@ -632,6 +643,10 @@
   publisher: The ISME journal
   date: '2019-09-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31492962
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6908642/bin/41396_2019_502_Fig1_HTML.jpg
+  tags:
+  - metagenomics
+  - microbial ecology
 - id: PMID:31628906
   title: A study of nitric oxide dynamics in a growing biofilm using a density dependent
     reaction-diffusion model.
