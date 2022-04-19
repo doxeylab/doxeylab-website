@@ -18,7 +18,7 @@
 
 - title: DiffBase
   group: more
-  image: images/photo.jpg
+  image: images/diffBase.png
   link: https://diffbase.uwaterloo.ca/
   description: A bioinformatic database and phylogenetic classification of C. difficile toxins
   tags:
@@ -33,6 +33,14 @@
     - resource
     - tool
 
+- title: AXIOME3 (Neufeld Lab)
+  group: more
+  image: images/axiome3.jpg
+  link: https://github.com/neufeld/AXIOME3
+  description: Automated QIIME 2 Workflow wrapped in Luigi Framework
+  tags:
+    - tool
+    
 - title: MetAnnotate
   group: more
   image: images/metannotate.png
