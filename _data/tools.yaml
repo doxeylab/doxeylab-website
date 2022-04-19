@@ -3,50 +3,35 @@
   image: images/annotree.jpg
   link: http://annotree.uwaterloo.ca
   description: Visualization of genomic annotations across the tree of life
-  tags:
-    - software
 
 - title: PhyloCorrelate
   group: more
   image: images/phylocorrelate.png
   link: https://phylocorrelate.uwaterloo.ca/
   description: Statistical detection of co-occurring genes across phylogenetic trees
-  tags:
-    - resource
-    - software
-    - R package
 
 - title: DiffBase
   group: more
   image: images/diffBase.png
   link: https://diffbase.uwaterloo.ca/
   description: A bioinformatic database and phylogenetic classification of C. difficile toxins
-  tags:
-    - database
 
 - title: PathFams
   group: more
   image: images/pathfams.png
   link: https://pathfams.uwaterloo.ca
   description: A database of pathogen-associated protein domains, and additional statistics on PFAM families.
-  tags:
-    - resource
-    - tool
 
 - title: AXIOME3 (Neufeld Lab)
   group: more
   image: images/axiome3.jpg
   link: https://github.com/neufeld/AXIOME3
   description: Automated QIIME 2 Workflow wrapped in Luigi Framework
-  tags:
-    - tool
     
 - title: MetAnnotate
   group: more
   image: images/metannotate.png
   link: https://bitbucket.org/doxeylab/metannotate
   description: Function-specific taxonomic profiling of metagenomes.
-  tags:
-    - tool
 
 
