@@ -1,3 +1,9 @@
+- id: DOI:10.1038/s42003-022-03333-9
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-022-03333-9/MediaObjects/42003_2022_3333_Fig2_HTML.png
+  tags:
+    - toxins
+    - function prediction
+    - evolution
 - id: PMID:16815958
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/1533947/bin/pp1411459f09.jpg
   tags:
