@@ -1,12 +1,13 @@
 ---
-name: Huagang (Steve) Tan
-image: images/member.jpg
+name: Steve (Huagang) Tan
+image: images/team/steve-tan.jpg
 description: Graduate Student
 role: msc
 group: current
 aliases:
-  - H. Tan
+  - Huagang Tan
   - H Tan
 ---
 
-Steve is working on ...
+Steve a MSc student in the Doxey Lab (S2022 start). He majored in Computer Science at the University of Waterloo before joining the Doxey Lab. He is interested in developing bioinformatic software and exploring algorithms.
+
