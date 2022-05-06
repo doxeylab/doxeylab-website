@@ -23,8 +23,14 @@ We are lucky to work with numerous research groups around the world, and we are 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab's research centers around the use of bioinformatic methods to predict novel biological phenomena. We generate and analyze datasets using omic approaches, and we also pursue novel predictions experimentally in the wet-lab. Some of the ongoing projects in our lab include:
+
+* Large-scale phylogenomic analysis of the bacterial and archaeal tree of life
+* Pathogen detection and analysis using clinical metagenomics
+* Proteomics discovery and functional characterization of novel biofilm-associated proteins
+* Bioinformatics, classification and evolution of bacterial protein toxins
+* Data-mining of the NCBI sequence read archive
+* Experimental characterization of flagellinolysin
 
 {%
   include link.html
