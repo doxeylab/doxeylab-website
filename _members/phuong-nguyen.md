@@ -1,6 +1,6 @@
 ---
 name: Phuong Nguyen
-image: images/member.jpg
+image: images/team/phuong-vahlis.jpg
 description: Graduate Student
 role: msc
 group: alumni
