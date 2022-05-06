@@ -23,14 +23,14 @@ We are lucky to work with numerous research groups around the world, and we are 
 # Highlights
 
 {% capture text %}
-Our lab's research centers around the use of bioinformatic methods to predict novel biological phenomena. We generate and analyze datasets using omic approaches, and we also pursue novel predictions experimentally in the wet-lab. Some of the ongoing projects in our lab include:
+Our lab's research centers around the use of bioinformatic methods to predict novel biological phenomena, as well as interpret high-throughput omic datasets. We mine public databases and also generate and analyze datasets in-house using sequencing-based approaches. Finally, we pursue exciting, novel predictions experimentally in the wet-lab. Some of the ongoing projects in our lab include:
 
 * Large-scale phylogenomic analysis of the bacterial and archaeal tree of life
 * Pathogen detection and analysis using clinical metagenomics
 * Proteomics discovery and functional characterization of novel biofilm-associated proteins
 * Bioinformatics, classification and evolution of bacterial protein toxins
 * Data-mining of the NCBI sequence read archive
-* Experimental characterization of flagellinolysin
+* Experimental characterization of novel bacterial proteases
 
 {%
   include link.html
