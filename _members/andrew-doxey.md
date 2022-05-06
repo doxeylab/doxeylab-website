@@ -1,6 +1,6 @@
 ---
 name: Andrew Doxey
-image: images/member.jpg
+image: images/team/andrew-doxey.jpg
 description: Professor / Principal Investigator
 role: pi
 aliases:
