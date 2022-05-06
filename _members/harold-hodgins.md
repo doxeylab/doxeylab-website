@@ -1,6 +1,6 @@
 ---
 name: Harold Hodgins
-image: images/team/harold-hodgins.png
+image: images/team/harold-hodgins.jpg
 description: Graduate Student
 role: msc
 group: current
