@@ -72,7 +72,6 @@ Our work has been made possible by funding and infrastructure support from sever
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/nserc.png"
   link1="https://www.nserc-crsng.gc.ca/"
