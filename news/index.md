@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>News
 
-{% include section.html %}
-
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
