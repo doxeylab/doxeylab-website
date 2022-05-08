@@ -23,7 +23,7 @@ We are lucky to work with numerous research groups around the world, and we are 
 # Highlights
 
 {% capture text %}
-Our lab's research centers around the use of bioinformatic methods to predict novel biological phenomena, as well as interpret high-throughput omic datasets. We mine public databases and also generate and analyze datasets in-house using sequencing-based approaches. Finally, we pursue exciting, novel predictions experimentally in the wet-lab. Some of the ongoing projects in our lab include:
+Some of the exciting, ongoing projects in our lab include:
 
 * Large-scale phylogenomic analysis of the bacterial and archaeal tree of life
 * Pathogen detection and analysis using clinical metagenomics
@@ -51,8 +51,10 @@ Our lab's research centers around the use of bioinformatic methods to predict no
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We build tools to automate and simplify complex bioinformatic workflows. Tools we are currently working on include:
+
+* A cloud-based system for automated pathogen diagnostics from RNA-seq data
+* A web-based browser for comparative genome visualization
 
 {%
   include link.html
@@ -95,5 +97,4 @@ Our team includes undergraduate and graduate students, postdocs, and research as
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
