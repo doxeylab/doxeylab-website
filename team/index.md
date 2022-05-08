@@ -67,7 +67,7 @@ If you are interested in joining the lab, don't hesitate to contact us. Previous
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work has been made possible by funding and infrastructure support from several organizations.
 {:.center}
 
 {%
@@ -97,4 +97,8 @@ Our work is made possible by funding from several organizations.
   image6="images/SOSCIP.gif"
   link6="https://www.soscip.org/"
   tooltip6="SOSCIP"
+  
+  image7="images/uwaterloo.png"
+  link7="https://uwaterloo.ca/"
+  tooltip7="U. Waterloo"
 %}
