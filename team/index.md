@@ -37,6 +37,12 @@ We have been fortunate to have an outstanding team composed of students and rese
   component="portrait"
   filters="role: msc, group: current"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad, group: current"
+%}
 {:.center}
 
 
