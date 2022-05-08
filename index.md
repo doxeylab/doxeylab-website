@@ -59,7 +59,7 @@ We build computational tools to automate and simplify complex bioinformatic work
 
 {%
   include feature.html
-  image="images/annotree.jpg"
+  image="images/code.jpg"
   link="resources"
   title="Our Resources"
   flip=true
