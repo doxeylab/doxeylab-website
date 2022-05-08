@@ -74,27 +74,27 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/nserc.png"
+  link1="https://www.nserc-crsng.gc.ca/"
+  tooltip1="NSERC"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/mitacs.png"
+  link2="https://www.mitacs.ca/"
+  tooltip2="Mitacs"
 
   image3="images/photo.jpg"
   link3="https://nasa.gov/"
   tooltip3="Cool Initiative"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image4="images/computecanada.png"
+  link4="https://www.computecanada.ca/"
+  tooltip4="Compute Canada"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  image5="images/cihr.jpg"
+  link5="https://cihr-irsc.gc.ca/"
+  tooltip5="CIHR"
 
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  image6="images/SOSCIP.gif"
+  link6="https://www.soscip.org/"
+  tooltip6="SOSCIP"
 %}
