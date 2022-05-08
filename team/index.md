@@ -73,17 +73,17 @@ Our work has been made possible by funding and infrastructure support from sever
 {%
   include gallery.html
 
-  image1="images/nserc.png"
-  link1="https://www.nserc-crsng.gc.ca/"
-  tooltip1="NSERC"
+  image1="images/uwaterloo.png"
+  link1="https://uwaterloo.ca/"
+  tooltip1="University of Waterloo"
 
-  image2="images/mitacs.png"
-  link2="https://www.mitacs.ca/"
-  tooltip2="Mitacs"
+  image2="images/nserc.png"
+  link2="https://www.nserc-crsng.gc.ca"
+  tooltip2="NSERC"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/mitacs.png"
+  link3="images/mitacs.png"
+  tooltip3="Mitacs"
 
   image4="images/computecanada.png"
   link4="https://www.computecanada.ca/"
@@ -97,7 +97,4 @@ Our work has been made possible by funding and infrastructure support from sever
   link6="https://www.soscip.org/"
   tooltip6="SOSCIP"
   
-  image7="images/uwaterloo.png"
-  link7="https://uwaterloo.ca/"
-  tooltip7="U. Waterloo"
 %}
