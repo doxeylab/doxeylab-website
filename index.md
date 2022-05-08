@@ -23,14 +23,8 @@ We are lucky to work with numerous research groups around the world, and we are 
 # Highlights
 
 {% capture text %}
-Some of the exciting, ongoing projects in our lab include:
 
-* Large-scale phylogenomic analysis of the bacterial and archaeal tree of life
-* Pathogen detection and analysis using clinical metagenomics
-* Proteomics discovery and functional characterization of novel biofilm-associated proteins
-* Bioinformatics, classification and evolution of bacterial protein toxins
-* Data-mining of the NCBI sequence read archive
-* Experimental characterization of novel bacterial proteases
+We use bioinformatics and data science to obtain new insights from biological data.
 
 {%
   include link.html
@@ -44,17 +38,14 @@ Some of the exciting, ongoing projects in our lab include:
 
 {%
   include feature.html
-  image="images/flagellins.jpg"
+  image="images/tree.png"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-We build tools to automate and simplify complex bioinformatic workflows. Tools we are currently working on include:
-
-* A cloud-based system for automated pathogen diagnostics from RNA-seq data
-* A web-based browser for comparative genome visualization
+We build computational tools to automate and simplify complex bioinformatic workflows.
 
 {%
   include link.html
@@ -68,7 +59,7 @@ We build tools to automate and simplify complex bioinformatic workflows. Tools w
 
 {%
   include feature.html
-  image="images/tree.png"
+  image="images/annotree.jpg"
   link="resources"
   title="Our Resources"
   flip=true
