@@ -82,7 +82,7 @@ Our team includes undergraduate and graduate students, postdocs, and research as
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/groupPhotoAug11-2021.png"
   link="team"
   title="Our Team"
   text=text
