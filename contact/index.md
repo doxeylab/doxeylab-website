@@ -44,13 +44,9 @@ We are also affiliated with the [Cheriton School of Computer Science](https://cs
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 Building B1-167
-
 Department of Biology
-
 University of Waterloo
-
 200 University Avenue West
-
 Waterloo, ON N2L 3G1, Canada
 
 {:.center}
