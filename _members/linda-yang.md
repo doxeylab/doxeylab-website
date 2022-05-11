@@ -1,12 +1,11 @@
 ---
 name: Linda Yang
-image: images/member.jpg
+image: images/team/linda-yang.jpg
 description: Developer
 role: developer
 group: current
 aliases:
-  - Y. Yang
-  - Y Yang
+  - Linda Yang
 ---
 
-Linda is working on ...
+Linda is working on development of the RNA-seq based pathogen diagnostics platform.
