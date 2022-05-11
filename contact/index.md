@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is located in the [Department of Biology](https://uwaterloo.ca/biology/), at the [University of Waterloo](https://uwaterloo.ca/).
+We are also affiliated with the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) and the [Department of Medicine](https://healthsci.mcmaster.ca/medicine/) at [McMaster University](https://www.mcmaster.ca/).
 
 {%
   include link.html
@@ -50,16 +51,7 @@ Waterloo, ON N2L 3G1, Canada
 
 {:.center}
 
-{% capture col1 %}
 {%
   include figure.html
   image="images/uw-stc.jpg"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
