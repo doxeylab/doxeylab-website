@@ -7,7 +7,7 @@ logo: images/logo.svg
 logo-text: false
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: ""
+baseurl: doxeylab-website
 
 # site social media and other links
 links:
