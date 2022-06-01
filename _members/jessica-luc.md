@@ -9,4 +9,4 @@ aliases:
   - J Luc
 ---
 
-Jessica is working on ...
+Jessica is working on analysis of clinical COVID-19 sequencing datasets, with a focus on detection and analysis of intrahost SARS-CoV-2 genetic variation.
