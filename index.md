@@ -6,7 +6,7 @@ title: Home
 
 The Doxey lab is a bioinformatics research lab at the University of Waterloo, in the Department of Biology and cross-affiliated to the Cheriton School of Computer Science. We develop and use <bf>computational</bf> approaches to analyze and compare genomes, and we apply <bf>experimental</bf> approaches to characterize new gene families and functions that we predict from data. Our work spans several fields including: pathogen biology, gene/protein function prediction, evolutionary genomics, and omics analysis of human disease.
 
-We are lucky to work with numerous research groups around the world, and we are always looking for new collaborations. Don't hesitate to contact us!
+We are fortunate to work with numerous research groups around the world, and we are always looking for new collaborations. Don't hesitate to contact us!
 
 {:.center}
 
