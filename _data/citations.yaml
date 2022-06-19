@@ -324,6 +324,7 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2017-05-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28052926
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/pr5d.jpg
 - id: PMID:28273103
   title: "Functional metagenomics reveals novel \u03B2-galactosidases not predictable\
     \ from gene sequences."
