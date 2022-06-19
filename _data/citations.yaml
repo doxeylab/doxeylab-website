@@ -417,6 +417,7 @@
   tags:
   - cancer
   - function prediction
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/diosmetin.jpg
 - id: PMID:28900095
   title: Discovery of a proteolytic flagellin family in diverse bacterial phyla that
     assembles enzymatically active flagella.
