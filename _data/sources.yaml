@@ -125,6 +125,7 @@
     - microbial ecology
     - toxins
 - id: PMID:28835383
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/diosmetin.jpg
   tags:
     - cancer
     - function prediction
