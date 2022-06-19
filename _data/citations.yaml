@@ -312,6 +312,7 @@
   publisher: Environmental microbiology
   date: '2017-02-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27943515
+  image: https://raw.githubusercontent.com/doxeylab/doxeylab-website/main/images/emi13643-fig-0005-m.jpg
 - id: PMID:28052926
   title: Lineage-specific mutational clustering in protein structures predicts evolutionary
     shifts in function.
