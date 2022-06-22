@@ -1,6 +1,6 @@
 ---
 name: Benjamin Jenkins
-image: images/member.jpg
+image: images/team/BenJenkins.jpg
 description: Graduate Student
 role: phd
 group: current
