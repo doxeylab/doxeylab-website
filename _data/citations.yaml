@@ -1,6 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: DOI:10.1101/2022.06.30.498301
+  title: Ancient Clostridium DNA and variants of tetanus neurotoxins associated with
+    human archaeological remains
+  authors:
+  - Harold P Hodgins
+  - Pengsheng Chen
+  - Briallen Lobb
+  - Benjamin JM Tremblay
+  - Michael J Mansfield
+  - Victoria CY Lee
+  - Pyung-Gang Lee
+  - Jeffrey Coffin
+  - Xin Wei
+  - Ana T Duggan
+  - Alexis E Dolphin
+  - Gabriel Renaud
+  - Min Dong
+  - Andrew C Doxey
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-30'
+  link: https://doi.org/gqfm4b
+  tags:
+  - ancient DNA
+  - toxins
+  - pathogens
+  - evolution
 - id: DOI:10.1016/j.isci.2022.104614
   title: Intronic regulation of SARS-CoV-2 receptor (ACE2) expression mediated by
     immune signaling and oxidative stress pathways
