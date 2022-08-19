@@ -1,3 +1,8 @@
+- id: DOI:10.1101/2022.08.17.504336
+  tags:
+    - toxins
+    - pathogens
+
 - id: DOI:10.1101/2022.06.30.498301
   tags:
     - ancient DNA
