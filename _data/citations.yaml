@@ -25,6 +25,24 @@
   tags:
   - cancer
   - proteins
+- id: DOI:10.1016/j.dci.2022.104518
+  title: Identification and characterization of a novel peptide from rainbow trout
+    (Oncorhynchus mykiss) with antimicrobial activity against Streptococcus iniae
+  authors:
+  - Joseph F.A. Varga
+  - Sascha R. Brunner
+  - Grant Cheng
+  - Daniel Min
+  - Marc G. Aucoin
+  - Andrew Doxey
+  - Brian Dixon
+  publisher: Developmental &amp; Comparative Immunology
+  date: '2022-08-01'
+  link: https://doi.org/gqqh7k
+  tags:
+  - proteins
+  - function prediction
+  - pathogens
 - id: DOI:10.1101/2022.08.17.504336
   title: Identification of divergent botulinum neurotoxin homologs in Paeniclostridium
     ghonii
