@@ -2,6 +2,12 @@
   tags:
     - cancer
     - proteins
+    
+- id: DOI:10.1016/j.dci.2022.104518
+  tags:
+    - proteins
+    - function prediction
+    - pathogens
 
 - id: DOI:10.1101/2022.08.17.504336
   tags:
