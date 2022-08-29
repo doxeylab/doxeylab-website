@@ -1,3 +1,8 @@
+- id: DOI:10.1158/1541-7786.MCR-21-1032
+  tags:
+    - cancer
+    - proteins
+
 - id: DOI:10.1101/2022.08.17.504336
   tags:
     - toxins
