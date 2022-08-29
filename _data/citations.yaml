@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: DOI:10.1158/1541-7786.MCR-21-1032
+  title: Glutamine metabolism mediates sensitivity to respiratory complex II inhibition
+    in acute myeloid leukemia
+  authors:
+  - Alessia Roma
+  - Matthew Tcheng
+  - Nawaz Ahmed
+  - Sarah Walker
+  - Preethi Jayanth
+  - Mark D. Minden
+  - Kristin Hope
+  - Praveen P. Nekkar Rao
+  - Jessica Luc
+  - Andrew C. Doxey
+  - Julie A. Reisz
+  - Rachel Culp-Hill
+  - Angelo D'Alessandro
+  - Paul A. Spagnuolo
+  publisher: Molecular Cancer Research
+  date: '2022-08-22'
+  link: https://doi.org/gqqh6m
+  tags:
+  - cancer
+  - proteins
 - id: DOI:10.1101/2022.08.17.504336
   title: Identification of divergent botulinum neurotoxin homologs in Paeniclostridium
     ghonii
