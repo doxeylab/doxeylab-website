@@ -3,7 +3,7 @@ name: Emma Collington
 image: images/team/emma-collington.jpg
 description: Graduate Student
 role: msc
-group: current
+group: alumni
 email: e4collington@uwaterloo.ca
 aliases:
   - Emma Collington
