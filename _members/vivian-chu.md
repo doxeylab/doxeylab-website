@@ -3,7 +3,7 @@ name: Vivian Chu
 image: images/team/vivian-chu.jpg
 description: undergraduate
 role: undergrad
-group: current
+group: alumni
 aliases:
   - Vivian Chu
 links:
