@@ -3,10 +3,10 @@ name: William Zhen
 image: images/team/william-zhen.jpg
 description: Developer
 role: developer
-group: current
+group: alumni
 aliases:
   - William Zhen
   - W. Zhen
 ---
 
-William is working on front-end development for a number of web-based bioinformatics applications being developed in the lab.
+William has worked on front-end development for a number of web-based bioinformatics applications  developed in the lab.
