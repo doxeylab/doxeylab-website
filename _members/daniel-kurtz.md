@@ -5,6 +5,6 @@ description: undergrad
 role: undergrad
 group: alumni
 aliases:
-  - Daniel Kurtz
+  - Daniel A Kurtz
 ---
 
