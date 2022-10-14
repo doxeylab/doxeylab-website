@@ -1,7 +1,7 @@
 ---
 name: Daniel Richard
 image: images/team/daniel-richard.png
-description: Undergrad research assistant and BIOL 499 student
+description: undergrad
 role: undergrad
 group: alumni
 aliases:
