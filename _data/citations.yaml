@@ -1,6 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: DOI:10.1038/s41467-022-33964-9
+  title: Identification of TFPI as a receptor reveals recombination-driven receptor
+    switching in Clostridioides difficile toxin B variants
+  authors:
+  - Songhai Tian
+  - Xiaozhe Xiong
+  - Ji Zeng
+  - Siyu Wang
+  - Benjamin Jean-Marie Tremblay
+  - Peng Chen
+  - Baohua Chen
+  - Min Liu
+  - Pengsheng Chen
+  - Kuanwei Sheng
+  - Daniel Zeve
+  - Wanshu Qi
+  - David T. Breault
+  - "C\xE9sar Rodr\xEDguez"
+  - Ralf Gerhard
+  - Rongsheng Jin
+  - Andrew C. Doxey
+  - Min Dong
+  publisher: Nature Communications
+  date: '2022-11-09'
+  link: https://doi.org/gq7tng
+  image: https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41467-022-33964-9/MediaObjects/41467_2022_33964_Fig1_HTML.png
+  tags:
+  - toxins
+  - evolution
+  - pathogens
 - id: DOI:10.1158/1541-7786.MCR-21-1032
   title: Glutamine metabolism mediates sensitivity to respiratory complex II inhibition
     in acute myeloid leukemia
