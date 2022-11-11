@@ -1,3 +1,10 @@
+- id: DOI:10.1038/s41467-022-33964-9
+  image: https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41467-022-33964-9/MediaObjects/41467_2022_33964_Fig1_HTML.png
+  tags:
+    - toxins
+    - evolution
+    - pathogens
+
 - id: DOI:10.1158/1541-7786.MCR-21-1032
   tags:
     - cancer
