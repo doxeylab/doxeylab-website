@@ -1,3 +1,45 @@
+- id: DOI:10.1093/gbe/evad135
+  tags:
+    - phylogenomics
+    - pathogens
+    - evolution
+
+- id: DOI:10.1093/gbe/evad129
+  tags:
+    - machine-learning
+    - phylogenomics
+    - protein function prediction
+
+- id: DOI:10.3390/v15051116
+  image: https://www.mdpi.com/viruses/viruses-15-01116/article_deploy/html/images/viruses-15-01116-g002.png
+  tags:
+    - phylogenomics
+    - viruses
+
+- id: DOI:10.1016/j.heliyon.2023.e13955
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10018469/bin/gr6.jpg
+  tags:
+    - phylogenomics
+    - pathogens
+    - plant-growth promoting bacteria
+
+- id: DOI:10.1183/23120541.00219-2023
+  tags:
+    - omics
+    - lung
+
+- id: DOI:10.1101/2023.07.21.550100
+  tags:
+    - toxins
+    - evolution
+    - pathogens
+
+- id: DOI:10.1101/2022.01.20.476458
+  tags:
+    - COVID-19
+    - surveillance
+    - pathogens
+
 - id: DOI:10.1038/s41467-022-33964-9
   image: https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41467-022-33964-9/MediaObjects/41467_2022_33964_Fig1_HTML.png
   tags:
@@ -40,11 +82,13 @@
     - toxins
     - function prediction
     - evolution
+    
 - id: PMID:16815958
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/1533947/bin/pp1411459f09.jpg
   tags:
     - proteins
     - function prediction
+    
 - id: PMID:16823370
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnbt1224/MediaObjects/41587_2006_Article_BFnbt1224_Fig1_HTML.jpg
   tags:
