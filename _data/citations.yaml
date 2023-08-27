@@ -1,6 +1,137 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: DOI:10.1093/gbe/evad135
+  title: Phylogenomic Analysis of 155 Helminth Species Reveals Widespread Absence
+    of Oxygen Metabolic Capacity
+  authors:
+  - Emma Collington
+  - Briallen Lobb
+  - Nooran Abu Mazen
+  - Andrew C Doxey
+  - D Moira Glerum
+  publisher: Genome Biology and Evolution
+  date: '2023-07-22'
+  link: https://doi.org/gsnbrd
+  tags:
+  - phylogenomics
+  - pathogens
+  - evolution
+- id: DOI:10.1093/gbe/evad129
+  title: A Machine Learning Framework Identifies Plastid-Encoded Proteins Harboring
+    C3 and C4 Distinguishing Sequence Information
+  authors:
+  - Nilanth Yogadasan
+  - Andrew C Doxey
+  - Simon D X Chuong
+  publisher: Genome Biology and Evolution
+  date: '2023-07-01'
+  link: https://doi.org/gsnbrf
+  tags:
+  - machine-learning
+  - phylogenomics
+  - protein function prediction
+- id: DOI:10.3390/v15051116
+  title: Functional Profiling and Evolutionary Analysis of a Marine Microalgal Virus
+    Pangenome
+  authors:
+  - Briallen Lobb
+  - Anson Shapter
+  - Andrew C. Doxey
+  - Jozef I. Nissimov
+  publisher: Viruses
+  date: '2023-05-05'
+  link: https://doi.org/gsnbrg
+  image: https://www.mdpi.com/viruses/viruses-15-01116/article_deploy/html/images/viruses-15-01116-g002.png
+  tags:
+  - phylogenomics
+  - viruses
+- id: DOI:10.1016/j.heliyon.2023.e13955
+  title: Comparative analysis of adenylate isopentenyl transferase genes in plant
+    growth-promoting bacteria and plant pathogenic bacteria
+  authors:
+  - Xin Wei
+  - Gabriel Moreno-Hagelsieb
+  - Bernard R. Glick
+  - Andrew C. Doxey
+  publisher: Heliyon
+  date: '2023-03-01'
+  link: https://doi.org/gsnbrh
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10018469/bin/gr6.jpg
+  tags:
+  - phylogenomics
+  - pathogens
+  - plant-growth promoting bacteria
+- id: DOI:10.1183/23120541.00219-2023
+  title: Cannabis smoke suppresses antiviral immune responses to influenza A in mice
+  authors:
+  - Nadia Milad
+  - Matthew F. Fantauzzi
+  - Joshua J.C. McGrath
+  - Steven P. Cass
+  - Danya Thayaparan
+  - Peiyao Wang
+  - Sam Afkhami
+  - Jennifer A. Aguiar
+  - Kjetil Ask
+  - Andrew C. Doxey
+  - Martin R. Stampfli
+  - Jeremy A. Hirota
+  publisher: ERJ Open Research
+  date: '2023-08-17'
+  link: https://doi.org/gsnbrj
+  tags:
+  - omics
+  - lung
+- id: DOI:10.1101/2023.07.21.550100
+  title: Identification of a botulinum neurotoxin-like gene cluster in<i>Bacillus
+    toyonensis</i>
+  authors:
+  - Xin Wei
+  - Briallen Lobb
+  - Kang Wang
+  - Min Dong
+  - Andrew C. Doxey
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-07-25'
+  link: https://doi.org/gsnbrk
+  tags:
+  - toxins
+  - evolution
+  - pathogens
+- id: DOI:10.1101/2022.01.20.476458
+  title: Genomic and transcriptomic characterization of Delta SARS-CoV-2 infection
+    in free-ranging white-tailed deer (<i>Odocoileus virginianus</i>)
+  authors:
+  - Jonathon D. Kotwa
+  - Briallen Lobb
+  - "Ariane Mass\xE9"
+  - Marianne Gagnier
+  - Patryk Aftanas
+  - Arinjay Banerjee
+  - Andra Banete
+  - Juliette Blais-Savoie
+  - Jeff Bowman
+  - Tore Buchanan
+  - Hsien-Yao Chee
+  - Peter Kruczkiewicz
+  - Finlay Maguire
+  - Allison J. McGeer
+  - Kuganya Nirmalarajah
+  - Catherine Soos
+  - Lily Yip
+  - L. Robbin Lindsay
+  - Andrew C. Doxey
+  - Oliver Lung
+  - Bradley Pickering
+  - Samira Mubareka
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-21'
+  link: https://doi.org/gsnbrm
+  tags:
+  - COVID-19
+  - surveillance
+  - pathogens
 - id: DOI:10.1038/s41467-022-33964-9
   title: Identification of TFPI as a receptor reveals recombination-driven receptor
     switching in Clostridioides difficile toxin B variants
