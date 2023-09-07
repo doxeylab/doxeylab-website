@@ -1,3 +1,12 @@
+- id: DOI:10.1038/s41467-023-41174-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-41174-0/MediaObjects/41467_2023_41174_Fig1_HTML.png
+  tags:
+    - phylogenomics
+    - pathogens
+    - evolution
+    - toxins
+    - ancient DNA
+
 - id: DOI:10.1093/gbe/evad135
   tags:
     - phylogenomics
