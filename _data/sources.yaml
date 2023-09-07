@@ -72,13 +72,6 @@
     - toxins
     - pathogens
 
-- id: DOI:10.1101/2022.06.30.498301
-  tags:
-    - ancient DNA
-    - toxins
-    - pathogens
-    - evolution
-
 - id: DOI:10.1016/j.isci.2022.104614
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2589004222008860-fx1_lrg.jpg
   tags:
