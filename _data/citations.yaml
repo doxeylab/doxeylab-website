@@ -1,6 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: DOI:/10.1186/s12879-023-08560-x
+  title: Genomic classification and antimicrobial resistance profiling of Streptococcus
+    pneumoniae and Haemophilus influenza isolates associated with paediatric otitis
+    media and upper respiratory infection
+  authors:
+  - Briallen Lobb
+  - Matthew C. Lee
+  - Christi L. McElheny
+  - Yohei Doi
+  - Kristin Yahner
+  - Alejandro Hoberman
+  - Judith M. Martin
+  - Jeremy A. Hirota
+  - Andrew C. Doxey
+  - Nader Shaikh
+  publisher: BMC Infectious Diseases
+  date: '2023-09-13'
+  link: https://doi.org//10.1186/s12879-023-08560-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12879-023-08560-x/MediaObjects/12879_2023_8560_Fig3_HTML.png
+  tags:
+  - infectious disease
+  - genomics
+  - antimicrobial resistance
 - id: DOI:10.1038/s41467-023-41174-0
   title: Ancient Clostridium DNA and variants of tetanus neurotoxins associated with
     human archaeological remains
