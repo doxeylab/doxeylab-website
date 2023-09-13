@@ -1,3 +1,11 @@
+- id: DOI:/10.1186/s12879-023-08560-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12879-023-08560-x/MediaObjects/12879_2023_8560_Fig3_HTML.png
+  tags:
+    - infectious disease
+    - genomics
+    - antimicrobial resistance
+
+
 - id: DOI:10.1038/s41467-023-41174-0
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-41174-0/MediaObjects/41467_2023_41174_Fig1_HTML.png
   tags:
