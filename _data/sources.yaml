@@ -1,3 +1,11 @@
+- id: DOI:10.1016/j.isci.2023.108319
+  image: https://www.cell.com/cms/attachment/21605776-11b4-467b-b201-9ff2c72a2f53/fx1.jpg
+  tags:
+    - infectious disease
+    - genomic surveillance
+    - transcriptomics
+    - COVID-19
+
 - id: DOI:/10.1186/s12879-023-08560-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12879-023-08560-x/MediaObjects/12879_2023_8560_Fig3_HTML.png
   tags:
