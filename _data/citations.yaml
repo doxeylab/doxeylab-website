@@ -1,6 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: DOI:10.1016/j.isci.2023.108319
+  title: Genomic and transcriptomic characterization of Delta SARS-CoV-2 infection
+    in free-ranging white-tailed deer (Odocoileus virginianus)
+  authors:
+  - Jonathon D. Kotwa
+  - Briallen Lobb
+  - "Ariane Mass\xE9"
+  - Marianne Gagnier
+  - Patryk Aftanas
+  - Arinjay Banerjee
+  - Andra Banete
+  - Juliette Blais-Savoie
+  - Jeff Bowman
+  - Tore Buchanan
+  - Hsien-Yao Chee
+  - Peter Kruczkiewicz
+  - Kuganya Nirmalarajah
+  - Catherine Soos
+  - Oksana Vernygora
+  - Lily Yip
+  - L. Robbin Lindsay
+  - Allison J. McGeer
+  - Finlay Maguire
+  - Oliver Lung
+  - Andrew C. Doxey
+  - Bradley Pickering
+  - Samira Mubareka
+  publisher: iScience
+  date: '2023-10-01'
+  link: https://doi.org/gsxkz7
+  image: https://www.cell.com/cms/attachment/21605776-11b4-467b-b201-9ff2c72a2f53/fx1.jpg
+  tags:
+  - infectious disease
+  - genomic surveillance
+  - transcriptomics
+  - COVID-19
 - id: DOI:/10.1186/s12879-023-08560-x
   title: Genomic classification and antimicrobial resistance profiling of Streptococcus
     pneumoniae and Haemophilus influenza isolates associated with paediatric otitis
