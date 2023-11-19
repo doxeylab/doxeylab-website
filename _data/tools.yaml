@@ -4,6 +4,14 @@
   link: http://annotree.uwaterloo.ca
   description: Visualization of genomic annotations across the tree of life
 
+- title: AnnoView (beta)
+  group: featured
+  image: images/annoview.png
+  link: http://annoview.uwaterloo.ca
+  description: Exploration of gene neighborhoods across the tree of life
+
+
+
 - title: PhyloCorrelate
   group: more
   image: images/phylocorrelate.png
