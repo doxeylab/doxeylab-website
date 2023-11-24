@@ -3,7 +3,7 @@ name: Sadie Graves
 image: images/team/sadie-graves.jpg
 description: undergraduate
 role: undergrad
-group: current
+group: alumni
 aliases:
   - Sadie Graves
 ---
