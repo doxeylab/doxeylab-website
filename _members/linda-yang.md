@@ -3,7 +3,7 @@ name: Linda Yang
 image: images/team/linda-yang.jpg
 description: Developer
 role: developer
-group: current
+group: alumni
 aliases:
   - Linda Yang
 ---
