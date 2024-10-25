@@ -3,7 +3,7 @@ name: Briallen Lobb
 image: images/team/briallen-lobb.jpg
 description: Research Associate
 group: current
-role: ra
+role: postdoc
 links:
   email: balobb@uwaterloo.ca
   github: briallen
