@@ -1,7 +1,7 @@
 ---
 name: Huagang Tan
 image: images/team/steve-tan.jpg
-description: Graduate Student
+description: MSc Student
 role: msc
 group: current
 aliases:
