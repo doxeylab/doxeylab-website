@@ -1,9 +1,9 @@
 ---
 name: Xin Wei
 image: images/team/xin-wei.jpg
-description: Graduate Student
+description: Doctoral Student
 role: phd
-group: current
+group: alumni
 aliases:
   - X. Wei
   - Xin Wei
@@ -14,4 +14,4 @@ links:
 
 ---
 
-Bio: Xin is a Ph.D. student in the Doxey lab. After completing a B.Sc. in Bioengineering from Jiangxi Agricultural University (China), Xin came to Canada and completed a MSc in Bioinformatics from the University of Guelph (2019). Xin's work in the Doxey lab focuses on comparing evolutionary profiles of microbial gene families.
+Bio: Xin completed her PhD in the Doxey Lab in 2023. Xin's work focused on comparative microbial genomics and genome visualization.
