@@ -1,17 +1,16 @@
 ---
 name: Manjot Hunjan
 image: images/team/manjot-hunjan.jpg
-description: Graduate Student
-role: msc
-group: alumni
+description: Bioinformatics Developer
+role: developer
+group: current
 aliases:
   - M. Hunjan
   - M Hunjan
 links:
-  home-page: www.manjothunjan.com
   email: mshunjan@uwaterloo.ca
   google-scholar: F3tPBFIAAAAJ&hl
   linkedin: manjotsinghhunjan
 ---
 
-Manjot was a M.Sc. student in the Doxey Lab. He graduated from University of Waterloo with a B.Sc. in Biology in 2020. Manjot is interested in developing modern bioinformatic approaches to analyzing metagenomic data.
+Manjot completed his MSc in the Doxey Lab, where he developed the AlignDx framework for metagenomic pathogen detection. Manjot is currently a software developer, further developing AlignDx for wastewater surveillance and other applications.
