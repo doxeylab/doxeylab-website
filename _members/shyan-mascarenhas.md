@@ -1,7 +1,7 @@
 ---
 name: Shyan Mascarenhas
 image: images/team/shyan.jpg
-description: Graduate Student
+description: MSc Student
 role: msc
 group: current
 aliases:
