@@ -2,7 +2,7 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
-researchassociate:
+ra:
   icon: fas fa-glasses
   text: Research Associate
   
