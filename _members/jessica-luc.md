@@ -1,7 +1,7 @@
 ---
 name: Jessica Luc
 image: images/team/jessica-luc.jpg
-description: Graduate Student
+description: MSc Student
 role: msc
 group: current
 aliases:
