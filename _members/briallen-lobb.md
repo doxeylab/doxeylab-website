@@ -1,9 +1,9 @@
 ---
 name: Briallen Lobb
 image: images/team/briallen-lobb.jpg
-description: Postdoctoral Researcher
+description: Research Associate
 group: current
-role: postdoc
+role: researchassociate
 links:
   email: balobb@uwaterloo.ca
   github: briallen
@@ -11,4 +11,4 @@ links:
   google-scholar: 2K6Q4cIAAAAJ
 ---
 
-Briallen is a postdoctoral fellow in the Doxey Lab. She received her PhD in 2020 from the University of Waterloo, where she studied bacterial genomics and metagenomics with a focus on functional annotation. Briallen is currently working on profiling bacterial communities from clinical samples and viral pangenomics. 
+Dr. Lobb is a Research Associate in the Doxey Lab. She received her PhD in 2020 from the University of Waterloo, where she studied bacterial genomics and metagenomics with a focus on functional annotation. Briallen is currently working on metagenomic and metatranscriptomic analysis of clinical samples and wildlife samples as part of collaborative pathogen surveillance projects.
