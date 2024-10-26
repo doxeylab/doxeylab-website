@@ -1,6 +1,6 @@
 ---
 name: Sanjana Kalra
-image: images/team/sanjana-kalra.jpg
+image: images/team/sanjana.jpg
 description: MSc Student
 role: msc
 group: current
