@@ -12,8 +12,8 @@ We are fortunate to work with numerous research groups around the world, and we 
 
 {%
   include figure.html
-  image="images/group.jpg"
-  caption="Doxey Lab, 2020"
+  image="images/DoxeyLab-2025-cropped.jpeg"
+  caption="Doxey Lab, 2025"
   link="team"
   width="100%"
 %}
