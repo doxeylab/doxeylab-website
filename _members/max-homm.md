@@ -7,7 +7,7 @@ group: current
 aliases:
   - Max Homm
 links:
-  web: https://mchomm.github.io/
+  home-page: https://mchomm.github.io/
   email: mchomm@uwaterloo.ca 
 ---
 
