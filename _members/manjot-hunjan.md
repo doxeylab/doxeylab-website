@@ -13,4 +13,4 @@ links:
   linkedin: manjotsinghhunjan
 ---
 
-Manjot completed his MSc in the Doxey Lab, where he developed the AlignDx framework for metagenomic pathogen detection. Manjot is currently a software developer, further developing AlignDx for wastewater surveillance and other applications.
+Manjot completed his MSc in the Doxey Lab, where he developed the AlignDx framework for metagenomic pathogen detection. Manjot then worked as a software developer, further developing AlignDx for wastewater surveillance and other applications.
