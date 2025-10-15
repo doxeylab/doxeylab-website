@@ -3,7 +3,7 @@ name: Manjot Hunjan
 image: images/team/manjot-hunjan.jpg
 description: Bioinformatics Developer
 role: developer
-group: current
+group: alumni
 aliases:
   - M. Hunjan
   - M Hunjan
