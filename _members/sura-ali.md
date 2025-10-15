@@ -1,14 +1,17 @@
 ---
 name: Sura Ali
 image: images/team/sura-ali.jpg
-description: Doctoral Student
-role: phd
+description: Postdoctoral Fellow
+role: postdoc
 group: current
 aliases:
   - S. Ali
   - Sura Ali
 links:
   email: s73ali@uwaterloo.ca
+  orcid: 0009-0006-4780-0760
+  linkedin: sura-ali-147a5a6b
+  google-scholar:vQuS6bcAAAAJ
 ---
 
-Bio: Sura is a Ph.D. student in the Doxey Lab. She graduated from the University of Western Ontario with a ME.Sc. in Chemical and Biochemical Engineering in 2014. She also holds a Master’s degree in Microbiology from the University of Baghdad. Before coming to UW, Sura worked in a variety of sectors including pharmaceutical R&D, medical, and environmental labs, as well as teaching. Sura is skilled in DNA extraction, microbiological techniques, transmission electron microscopy, and bioinformatics. In the Doxey Lab, Sura investigating abundant uncharacterized proteins produced by Pseudoalteromonas tunicata and exploring their functions in biofilms.
+Dr. Ali is a postdoctoral researcher in the Doxey Lab. She received her PhD in 2025 from the University of Waterloo, where she discovered two novel proteins produced by Pseudoalteromonas tunicata and explored their functions in biofilms formation. Dr. Ali is interested in conducting genomic surveillance of wastewater to characterize novel antimicrobial resistance genes.  Supplemented by the surveillance of relevant viral and bacterial pathogens.
