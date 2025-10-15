@@ -1,6 +1,6 @@
 ---
 name: Max Homm
-image: images/team/max-homm.jpg
+image: images/team/maxhomm.jpg
 description: MMath student
 role: msc
 group: current
