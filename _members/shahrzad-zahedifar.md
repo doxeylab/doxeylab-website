@@ -6,6 +6,9 @@ role: phd
 group: current
 aliases:
   - Shahrzad Zahedifar
+links:
+  email: szahedif@uwaterloo.ca
+  linkedin: shahrzad-zahedifar-89879921b
 ---
 
-Shahrzad Zahedifar is a Ph.D. student in the Doxey Lab, co-supervised by Dr. Trevor Charles. She graduated from Tehran Medical Sciences University with a degree in Molecular Genetics. Before joining UW, Shahrzad honed her skills in advanced molecular techniques and genomic analysis. Her research, part of the INSPIRE project, focuses on wastewater genomic surveillance, using proximity ligation sequencing to study RNA-based host-virus interactions within wastewater samples.
+Her research, part of the INSPIRE project, focuses on detecting novel viruses through wastewater genomic surveillance. She is involved in both the experimental and computational aspects of the work, contributing to the development and optimization of laboratory protocols and bioinformatics pipelines for viral detection in complex environmental samples.
