@@ -1,7 +1,7 @@
 ---
 name: Yusra Nazneen
 image: images/team/yusranazneen.jpeg
-description: PhD Student
+description: Doctoral student
 role: phd
 group: current
 aliases:
